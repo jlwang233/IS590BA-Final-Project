@@ -1,0 +1,2001 @@
+CONSTITUENT_ID	AGE	GENDER	MARRIED	STATE	COUNT(F.FAMILY_ID)	COUNT(E.EVENT_ATTENDEE_ID)	COUNT(V.VOLUNTEER_ID)	sum(T.AMOUNT)
+2502	67	Female	1	Illinois	0	160	160	11440
+2517	62	Female	0	Illinois	0	0	0	390
+2700	53	Male	0	Illinois	0	60	60	2000
+13766	27	Female	0	Illinois	0	0	0	NULL
+14199	24	Female	0	California	0	0	0	NULL
+14291	24	Female	0	Illinois	0	0	0	NULL
+15591	73	Female	0	Illinois	0	22	0	780
+15869	74	Male	1	Wisconsin	0	0	0	70
+15967	55	Female	0	Illinois	0	9	0	90
+16125	68	Male	1	Illinois	10	0	0	250
+22792	25	Female	0	Illinois	0	0	0	25
+26930	25	Female	0	Illinois	0	1	0	1
+102461	29	Female	0	Illinois	0	0	0	NULL
+102533	45	Female	0	Illinois	0	0	0	60
+102535	30	Female	0	Kentucky	0	0	0	NULL
+103593	30	Female	0	Illinois	0	0	0	NULL
+103595	29	Female	0	Illinois	0	0	0	NULL
+103596	36	Female	0	Illinois	0	0	0	NULL
+103604	36	Male	0	Illinois	0	0	0	NULL
+103606	30	Female	0	Illinois	0	0	0	NULL
+103723	44	Female	0	Illinois	0	0	0	NULL
+103724	30	Female	0	Illinois	0	0	0	NULL
+103750	29	Female	0	Illinois	0	0	0	NULL
+103751	44	Male	0	Illinois	0	0	0	NULL
+103752	31	Female	0	Missouri	0	0	0	NULL
+103758	37	Female	0	Missouri	0	0	0	NULL
+105156	40	Female	1	New Mexico	0	0	0	NULL
+105220	51	Female	0	Illinois	0	0	1	NULL
+105347	41	Female	0	Illinois	0	0	1	NULL
+105360	57	Female	0	Illinois	0	144	0	164700
+107564	78	Female	1	California	0	18	18	33177
+107669	43	Female	0	Pennsylvania	0	0	0	NULL
+107692	41	Female	1	Illinois	0	0	0	NULL
+107719	40	Female	1	Illinois	0	0	0	NULL
+108611	35	Female	0	Illinois	0	1	0	NULL
+108615	33	Female	0	Illinois	0	1	0	NULL
+108621	30	Female	1	Illinois	0	0	0	NULL
+108646	30	Female	0	Illinois	0	3	0	NULL
+108681	29	Female	0	Illinois	0	0	0	NULL
+108700	33	Female	0	Illinois	0	0	104	900
+108721	30	Female	0	Illinois	0	0	0	NULL
+108730	32	Female	0	Illinois	0	0	1	NULL
+108777	30	Female	0	Illinois	0	0	0	NULL
+109795	41	Female	0	Illinois	0	0	0	NULL
+109885	46	Male	0	Illinois	0	0	1	NULL
+110127	82	Female	1	California	0	0	0	25
+110157	83	Female	1	Illinois	0	0	0	110
+110161	64	Female	1	Illinois	0	0	6	110
+110238	55	Female	1	Kentucky	0	0	0	25
+110285	69	Female	1	Illinois	0	7	0	750
+111307	29	Female	0	Michigan	0	0	0	NULL
+111309	29	Female	0	Illinois	0	0	0	NULL
+111458	60	Female	0	Illinois	0	0	0	NULL
+111834	45	Female	0	No State	0	0	0	NULL
+111928	74	Female	1	Illinois	0	34	0	1750
+111929	75	Male	1	Maryland	0	0	0	125
+112415	50	Male	1	Florida	0	1	0	25
+113208	32	Female	0	Illinois	0	1	0	NULL
+113272	34	Female	0	Indiana	0	0	0	NULL
+113290	31	Female	0	Wisconsin	0	0	0	NULL
+113719	63	Female	1	New Jersey	0	14	0	1450
+113735	74	Female	1	California	0	2	0	25
+119684	34	Female	0	Oregon	0	0	0	NULL
+120676	50	Female	1	Kentucky	0	0	0	125
+120699	68	Male	0	Texas	0	1	0	25
+120901	79	Female	0	Illinois	0	114	0	2850
+120970	66	Male	1	Arkansas	0	0	0	25
+120998	50	Male	1	Washington	0	0	0	75
+121013	68	Male	0	California	0	0	0	725
+121320	62	Female	1	Illinois	0	0	0	25
+121431	86	Male	1	Florida	0	0	0	150
+126386	32	Female	0	Illinois	0	0	0	NULL
+126464	31	Male	0	Illinois	0	0	0	NULL
+126739	31	Female	0	Illinois	0	0	1	NULL
+129680	77	Female	1	Virginia	0	0	0	315
+129770	73	Female	1	Michigan	0	0	0	NULL
+129778	71	Male	0	New York	0	0	0	270
+129874	74	Female	1	Illinois	0	0	1	NULL
+130038	62	Female	0	Indiana	0	0	0	NULL
+130054	65	Female	1	Pennsylvania	0	0	0	1050
+130084	83	Female	0	Illinois	0	0	0	100
+131416	77	Female	0	Indiana	0	0	0	NULL
+131602	64	Female	1	South Carolina	0	0	0	45
+131632	74	Female	1	Wisconsin	0	0	0	25
+136659	74	Male	1	Texas	0	0	0	400
+136678	77	Female	1	Florida	0	4	0	85
+136713	47	Female	0	Illinois	0	0	0	NULL
+136722	93	Female	1	Illinois	0	0	0	290
+137859	58	Female	1	Indiana	0	0	0	150
+137875	72	Female	1	Illinois	0	0	0	100
+137943	67	Male	1	Arizona	0	465	0	133075
+137954	58	Female	1	Indiana	0	0	0	575
+138093	67	Male	1	Indiana	0	0	0	285
+138112	57	Female	0	California	0	0	0	25
+138206	47	Female	0	Georgia	0	0	0	25
+138272	67	Male	1	Florida	0	130	0	16500
+138294	60	Female	1	Ohio	0	0	0	25
+138538	45	Male	0	Illinois	0	0	0	NULL
+138560	68	Female	0	Pennsylvania	0	0	0	150
+147588	68	Female	1	District of Columbia	0	2	0	50
+147593	53	Male	0	Illinois	0	0	0	250
+147605	57	Female	1	Indiana	0	0	0	50
+147633	55	Female	0	Illinois	0	0	0	75
+147680	58	Female	1	Iowa	0	0	8	160
+147690	62	Female	0	Illinois	0	6	0	200
+147703	85	Female	1	California	112	112	0	4820
+147738	61	Female	0	Illinois	0	225	0	12525
+147817	62	Male	1	Illinois	0	33	0	2025
+147857	84	Male	0	Illinois	0	0	0	10
+147865	56	Female	0	Illinois	0	0	1	25
+147932	46	Female	1	North Carolina	0	0	0	325
+147946	72	Female	1	Illinois	15	15	0	1250
+147959	64	Male	1	Virginia	0	0	0	75
+147968	74	Female	0	Illinois	0	0	0	100
+147984	68	Male	1	South Carolina	0	0	0	50
+149164	70	Male	1	Indiana	0	0	0	350
+149251	46	Female	0	Texas	0	0	0	25
+149319	69	Male	0	District of Columbia	0	7	0	745
+149422	75	Male	1	No State	0	0	0	25
+149472	60	Male	0	Illinois	0	27	0	2535
+149597	58	Female	0	Connecticut	0	0	0	100
+153552	52	Female	0	Illinois	0	3	0	100
+153586	46	Female	1	Illinois	0	0	4	150
+153646	62	Female	1	Illinois	0	0	0	75
+153713	72	Female	1	Florida	0	0	0	30
+153911	71	Female	1	Illinois	0	0	10	850
+154007	70	Female	0	Oregon	0	0	0	5
+154061	80	Male	0	No State	0	0	0	50
+154094	75	Female	1	Tennessee	0	0	0	75
+154314	87	Female	0	Illinois	0	38	0	3630
+154351	44	Female	1	Illinois	0	0	0	20
+162587	63	Female	0	Montana	0	0	0	105
+162612	55	Female	1	Illinois	0	2	0	75
+162624	45	Female	1	Virginia	0	3	0	65
+162651	57	Male	1	Illinois	0	0	6	255
+162667	72	Female	0	No State	0	0	0	25
+162689	57	Female	1	Connecticut	0	0	0	310
+162808	60	Female	1	Illinois	14	0	0	662
+162871	69	Female	1	Illinois	28	0	28	1200
+162936	67	Male	1	Connecticut	0	0	0	250
+162966	64	Female	0	Illinois	0	0	7	625
+165267	60	Female	0	Illinois	4	0	0	200
+165354	58	Female	1	Illinois	0	5	0	100
+165485	63	Male	0	No State	0	0	0	220
+166622	66	Female	0	Illinois	0	0	0	20
+166628	63	Female	0	Texas	0	0	0	20
+166656	62	Female	0	Illinois	0	0	0	275
+166768	58	Female	1	Illinois	0	28	0	2800
+166791	59	Male	1	Illinois	0	0	0	30
+166820	52	Male	1	Nevada	0	0	0	50
+167029	55	Male	0	Illinois	0	0	0	10
+167135	52	Female	1	Illinois	0	1	0	20
+167166	68	Male	1	Illinois	0	0	0	350
+174067	53	Female	1	Rhode Island	0	0	0	750
+174103	50	Female	1	Illinois	0	0	0	195
+175305	70	Female	1	Illinois	0	0	0	50
+175315	70	Female	0	Illinois	0	0	0	60
+175469	68	Female	1	Illinois	1	1	0	10
+175640	62	Male	1	Illinois	0	9	0	600
+175744	46	Female	1	Illinois	0	0	0	55
+175746	45	Female	0	Indiana	0	0	0	25
+175789	67	Male	1	Illinois	0	0	0	50
+175843	64	Female	1	Arizona	0	0	0	100
+175874	64	Female	1	Illinois	0	0	0	1200
+175879	65	Female	1	Illinois	0	0	0	45
+175933	66	Female	1	Florida	0	0	0	470
+175991	64	Male	1	Illinois	20	20	0	2125
+176019	57	Female	1	Illinois	46	46	0	1340
+181105	25	Female	0	Illinois	0	0	0	1
+181646	27	Female	0	Illinois	0	0	0	2
+181791	24	Female	0	Illinois	0	0	0	2
+182156	62	Female	0	Virginia	0	0	0	85
+182429	61	Female	1	Illinois	0	0	0	125
+182465	62	Female	1	Illinois	0	0	0	200
+182589	55	Male	1	Illinois	0	0	0	345
+189255	78	Male	1	Illinois	0	0	0	35
+189309	55	Female	1	Illinois	0	2	2	50
+189340	53	Female	1	Illinois	0	0	0	190
+189419	57	Female	1	Illinois	0	105	105	14120
+189518	60	Female	1	Illinois	0	2	0	15
+189578	65	Female	1	Illinois	0	0	0	535
+189685	60	Female	1	Illinois	0	11	0	800
+189702	61	Male	0	New Mexico	0	0	0	20
+189725	75	Female	0	Illinois	0	6	6	600
+189759	46	Female	1	Illinois	0	0	0	10
+189769	60	Male	0	Illinois	0	0	0	10
+189857	65	Female	1	Illinois	0	5	0	400
+207222	67	Male	1	Illinois	0	0	0	120
+207253	50	Female	1	Illinois	0	0	17	450
+207389	62	Female	1	Illinois	0	0	0	55
+208581	62	Male	1	Pennsylvania	0	0	0	2995
+208634	59	Female	1	Illinois	0	5	5	125
+208703	59	Female	0	Illinois	0	0	0	25
+208707	0	Female	0	Wisconsin	0	0	0	150
+224392	67	Female	1	Illinois	0	2	2	20
+224439	67	Female	1	Illinois	0	14	14	310
+224674	63	Female	1	No State	0	0	0	10
+224718	58	Female	1	Minnesota	0	0	0	1300
+224847	43	Female	1	Georgia	0	0	0	250
+224860	41	Female	0	California	0	0	0	100
+224878	62	Female	1	Illinois	15	0	0	725
+229504	29	Female	0	Illinois	0	0	0	300
+233287	23	Female	0	Illinois	0	0	0	1
+237424	74	Male	1	Illinois	7	0	0	575
+237426	66	Female	1	Illinois	0	4	0	70
+237445	75	Female	1	Illinois	0	100	0	5750
+237823	74	Female	0	Illinois	0	0	0	100
+237903	76	Female	1	Illinois	0	0	0	10
+248604	23	Female	0	Illinois	0	0	0	2
+249037	73	Male	1	Illinois	0	1800	1800	144210.59994506836
+249279	46	Female	0	North Carolina	0	0	0	10
+250596	42	Female	1	Pennsylvania	0	10	0	220
+253043	61	Female	1	Michigan	0	0	0	30
+253201	61	Female	1	Missouri	0	0	0	25
+253205	65	Female	0	Montana	0	0	0	75
+253481	62	Male	1	Illinois	0	0	0	295
+253601	63	Female	0	Illinois	0	0	0	60
+253657	63	Female	1	Illinois	0	0	0	145
+254961	76	Female	0	No State	0	0	0	65
+257623	58	Female	0	Illinois	0	0	0	75
+257636	57	Female	1	Illinois	0	0	0	20
+257806	65	Female	0	Illinois	0	0	0	215
+257926	75	Female	0	No State	0	0	0	170
+260005	49	Female	1	Illinois	0	0	0	20
+260097	66	Female	1	Arizona	0	0	0	700
+261462	60	Female	0	Illinois	0	0	0	50
+261692	56	Female	0	Illinois	0	0	0	200
+261754	62	Female	0	Illinois	0	0	0	15
+261919	58	Female	0	Illinois	0	0	0	85
+261983	84	Male	1	California	0	0	0	60
+262175	57	Female	1	Virginia	0	0	0	1025
+263602	60	Female	1	Illinois	0	26	0	795
+263712	61	Female	1	Illinois	40	40	0	1100
+263810	63	Female	1	North Carolina	0	0	0	370
+263815	61	Female	0	New Mexico	0	0	0	75
+264055	49	Female	1	Illinois	0	0	0	20
+264109	62	Male	0	Illinois	0	0	0	25
+264248	46	Female	1	California	0	0	0	75
+264595	66	Female	1	Oregon	0	0	0	500
+265879	65	Male	1	Illinois	0	0	0	25
+268117	59	Female	1	Illinois	0	26	26	1290
+268241	58	Female	1	Illinois	0	0	0	75
+268499	67	Female	1	Illinois	0	10	0	300
+268576	69	Female	0	Illinois	0	2	0	50
+268608	61	Female	0	Arizona	0	0	0	40
+268698	58	Female	1	Illinois	0	9	0	260
+268775	71	Female	0	Illinois	0	0	0	100
+1001716	63	Female	0	Texas	0	0	0	NULL
+1001807	63	Female	1	Wisconsin	0	0	0	NULL
+1001853	65	Female	0	Illinois	0	1	1	NULL
+1001919	63	Male	1	Virginia	0	0	0	NULL
+1001958	62	Female	0	Arizona	0	0	0	NULL
+1001993	62	Female	0	Arizona	0	0	0	NULL
+1002014	71	Female	0	Illinois	0	0	0	NULL
+1002044	62	Female	1	Illinois	2	0	0	NULL
+1002074	63	Female	0	California	0	0	0	NULL
+1003160	87	Male	0	South Carolina	0	0	0	NULL
+1005388	26	Female	0	Illinois	0	0	0	NULL
+1007556	23	Female	0	Illinois	0	0	0	NULL
+1007582	24	Female	0	Illinois	0	0	0	NULL
+1007723	24	Female	0	Illinois	0	0	0	NULL
+1007796	22	Female	0	Illinois	0	0	0	20
+1007873	49	Female	0	Illinois	0	0	0	NULL
+1018043	66	Female	0	Illinois	0	0	0	NULL
+1018106	69	Male	0	No State	0	0	0	NULL
+1018195	65	Female	1	Wisconsin	0	0	0	NULL
+1018371	68	Male	1	Ohio	0	0	0	NULL
+1018473	66	Male	1	Washington	0	0	0	NULL
+1018483	66	Female	1	Illinois	0	0	0	NULL
+1018551	61	Female	0	Louisiana	0	0	0	NULL
+1018568	64	Male	0	Illinois	1	0	0	NULL
+1018578	61	Female	0	Illinois	0	0	0	NULL
+1018672	64	Male	0	Pennsylvania	0	0	0	NULL
+1018682	69	Female	0	Illinois	0	0	0	NULL
+1018697	68	Female	0	Illinois	0	0	0	NULL
+1033897	68	Male	1	Nevada	0	0	0	NULL
+1033898	66	Female	0	Texas	0	0	0	NULL
+1033963	65	Male	0	New Mexico	0	2	0	45
+1034020	70	Female	0	Texas	0	0	0	NULL
+1034088	70	Female	0	California	0	0	0	NULL
+1035734	65	Female	0	Georgia	0	0	0	NULL
+1035811	71	Male	0	Arizona	0	0	0	NULL
+1040640	24	Female	0	Illinois	0	0	0	NULL
+1041837	25	Male	0	Illinois	0	0	0	NULL
+1051138	63	Male	0	Georgia	0	0	0	NULL
+1051280	67	Female	0	Texas	0	0	0	NULL
+1051333	65	Male	1	Colorado	0	0	0	NULL
+1052642	66	Female	1	Wisconsin	0	1	0	NULL
+1052648	69	Male	1	Texas	0	0	0	NULL
+1052654	62	Male	0	Illinois	0	0	0	NULL
+1052721	61	Female	1	Illinois	0	0	1	NULL
+1052725	65	Male	0	Illinois	0	1	0	NULL
+1052761	66	Female	1	Colorado	0	0	0	NULL
+1052840	62	Female	0	Illinois	0	0	0	NULL
+1058592	94	Female	1	New Jersey	0	13	0	320
+1059041	63	Female	0	Illinois	0	0	0	NULL
+1059091	65	Female	1	Illinois	0	0	0	NULL
+1059248	77	Male	1	No State	0	0	0	NULL
+1059281	74	Female	0	Colorado	0	0	0	NULL
+1059400	62	Female	1	Illinois	0	0	0	NULL
+1059824	62	Male	0	Colorado	0	0	0	NULL
+1059907	64	Female	1	Illinois	1	0	1	NULL
+1059909	74	Female	0	California	0	0	0	NULL
+1059922	59	Female	0	North Carolina	0	0	0	NULL
+1060956	107	Female	0	No State	0	0	0	20
+1061968	61	Female	0	Illinois	0	0	0	NULL
+1061991	70	Female	0	Illinois	0	0	1	NULL
+1062023	64	Male	0	Illinois	0	0	0	NULL
+1062068	60	Female	0	Illinois	0	0	0	NULL
+1062120	65	Female	0	Florida	0	0	0	NULL
+1062132	65	Female	0	Colorado	0	0	0	NULL
+1062138	66	Female	0	Illinois	0	0	0	NULL
+1062144	60	Female	0	Michigan	0	0	0	NULL
+1062151	58	Female	1	Illinois	0	1	0	NULL
+1062156	59	Female	0	Illinois	0	0	0	NULL
+1063400	60	Female	0	Colorado	0	0	0	NULL
+1063428	58	Female	1	Illinois	0	0	0	NULL
+1063465	68	Male	1	Illinois	0	0	0	NULL
+1063502	60	Female	1	California	0	0	0	NULL
+1064331	38	Female	0	Illinois	0	0	0	NULL
+1064448	24	Female	0	Illinois	0	0	0	NULL
+1065305	97	Female	0	Illinois	0	2	0	20
+1067251	0	Male	0	No State	0	0	0	40
+1068016	60	Female	1	California	0	0	0	NULL
+1068071	60	Female	1	Illinois	1	0	0	NULL
+1068078	0	Female	0	Maine	0	0	0	NULL
+1068231	65	Male	0	Illinois	0	0	0	NULL
+1068265	60	Female	0	Colorado	0	0	0	NULL
+1068328	61	Female	0	Illinois	0	0	0	NULL
+1068400	60	Female	1	Illinois	0	0	0	NULL
+1068578	73	Female	0	Michigan	0	0	0	NULL
+1068613	62	Male	0	Wisconsin	0	0	0	NULL
+1068711	63	Female	0	Illinois	1	0	0	NULL
+1068757	58	Female	0	Illinois	0	0	0	NULL
+1070521	62	Male	1	Illinois	0	0	0	NULL
+1070581	59	Female	0	Alabama	0	0	0	NULL
+1070592	66	Female	0	New York	0	0	0	NULL
+1070600	61	Female	0	Illinois	0	0	0	NULL
+1070627	68	Female	0	Illinois	0	0	0	50
+1070866	62	Female	0	Arizona	0	0	0	NULL
+1072044	0	Female	0	No State	0	0	0	NULL
+1072101	88	Female	0	No State	1	0	0	NULL
+1072751	23	Female	0	Illinois	0	0	0	NULL
+1072824	24	Female	0	Illinois	0	0	0	NULL
+1074130	93	Female	0	No State	0	0	0	NULL
+1074984	60	Female	1	Colorado	0	3	3	NULL
+1075101	60	Female	0	Oregon	0	0	0	NULL
+1075244	67	Male	1	Illinois	2	2	0	NULL
+1075255	58	Female	0	Illinois	0	0	0	NULL
+1075260	64	Female	1	Illinois	0	1	0	NULL
+1075410	62	Female	0	Illinois	0	2	0	NULL
+1075526	63	Female	1	Illinois	0	0	0	NULL
+1076830	62	Female	1	Illinois	0	0	0	NULL
+1076831	61	Female	0	Georgia	0	0	0	NULL
+1076961	66	Female	1	Illinois	0	0	1	NULL
+1077062	66	Male	0	Illinois	0	0	0	NULL
+1077177	60	Female	0	Illinois	0	0	0	NULL
+1077183	59	Female	0	South Carolina	0	0	0	NULL
+1077223	64	Female	0	Illinois	0	0	0	NULL
+1077283	57	Female	0	Maryland	0	0	0	NULL
+1077316	59	Female	0	Illinois	0	0	0	NULL
+1077317	62	Female	0	Wisconsin	0	0	0	75
+1077324	60	Female	0	Illinois	0	0	0	NULL
+1077492	62	Male	0	Illinois	0	0	0	NULL
+1077493	59	Female	0	Arkansas	0	0	0	NULL
+1077514	58	Female	0	Illinois	1	0	0	NULL
+1077626	40	Male	0	Illinois	0	0	0	NULL
+1077672	23	Female	0	Illinois	0	0	0	NULL
+1077700	24	Female	0	Michigan	0	0	0	NULL
+1077862	32	Female	0	Illinois	0	0	0	NULL
+1079083	23	Female	0	Illinois	0	0	0	NULL
+1079248	27	Female	0	Illinois	0	0	0	NULL
+1079548	24	Female	0	Illinois	0	0	0	NULL
+1079585	33	Male	0	Illinois	0	0	0	NULL
+1079595	24	Female	0	Connecticut	0	0	0	NULL
+1079611	23	Female	0	Illinois	0	0	0	NULL
+1079626	58	Female	1	California	0	0	0	NULL
+1080955	86	Male	1	No State	0	0	0	204
+1081067	98	Female	0	Texas	0	0	0	14.700000047683716
+1081183	0	Female	0	California	0	0	0	NULL
+1082194	82	Male	1	Maine	0	0	0	NULL
+1082207	56	Female	1	California	0	0	0	NULL
+1083690	83	Female	0	Illinois	0	0	0	NULL
+1083715	60	Female	1	Illinois	3	3	0	NULL
+1083757	57	Female	0	Illinois	0	0	0	NULL
+1084650	0	Female	0	Ohio	0	0	0	NULL
+1086102	23	Female	0	Illinois	0	0	0	NULL
+1086127	23	Female	0	Illinois	0	0	0	NULL
+1086366	34	Female	0	Illinois	0	0	0	NULL
+1086386	24	Female	0	Illinois	0	0	0	NULL
+1086433	23	Female	0	Illinois	0	0	0	NULL
+1086459	25	Female	0	Illinois	0	0	0	NULL
+1086471	55	Female	0	New Jersey	0	0	0	NULL
+1086503	24	Female	0	Illinois	0	0	0	NULL
+1086566	25	Female	0	Illinois	0	0	0	NULL
+1086797	99	Male	0	No State	0	0	0	20
+1087840	57	Female	0	Tennessee	0	0	0	NULL
+1087879	61	Male	0	Florida	1	0	0	NULL
+1087901	56	Female	0	Virginia	0	0	0	NULL
+1087965	60	Female	0	Illinois	0	0	0	NULL
+1088246	77	Male	0	No State	0	0	0	NULL
+1088285	59	Female	0	Illinois	0	0	0	NULL
+1088319	61	Female	0	Virgin Islands	0	0	0	NULL
+1088451	59	Female	0	Arizona	0	0	0	NULL
+1088487	66	Male	0	Illinois	0	0	0	NULL
+1088495	58	Female	1	California	1	0	0	NULL
+1088695	59	Female	1	Illinois	0	0	0	NULL
+1088755	69	Female	1	Alabama	0	0	0	NULL
+1088790	0	Male	0	Texas	0	0	0	250
+1088856	60	Male	0	Illinois	0	0	0	NULL
+1088873	58	Female	1	Texas	0	0	0	NULL
+1090012	72	Male	0	California	0	0	0	NULL
+1090015	62	Male	1	Illinois	0	0	0	NULL
+1090225	63	Female	0	Colorado	0	0	0	300
+1090239	61	Male	0	Indiana	0	0	0	NULL
+1090303	64	Female	1	Massachusetts	0	0	0	NULL
+1090344	76	Female	1	California	0	0	0	NULL
+1090362	63	Female	0	California	0	0	0	NULL
+1090394	59	Female	1	Illinois	0	0	0	NULL
+1090395	59	Female	0	California	0	0	0	NULL
+1090402	65	Male	1	Illinois	0	0	0	NULL
+1090417	68	Male	0	Minnesota	0	0	0	NULL
+1090426	58	Female	1	California	0	0	0	NULL
+1090463	59	Female	0	California	0	0	0	NULL
+1090490	57	Female	0	California	0	0	0	NULL
+1090503	61	Female	1	North Carolina	0	0	0	NULL
+1090511	63	Female	0	New Mexico	0	0	0	NULL
+1090550	69	Female	0	Colorado	0	0	0	NULL
+1090573	62	Female	0	Wisconsin	0	0	0	NULL
+1090682	57	Female	1	Illinois	0	0	1	NULL
+1092753	60	Female	0	Illinois	0	0	0	NULL
+1092763	60	Female	0	Illinois	0	0	1	NULL
+1092940	64	Female	0	Illinois	0	0	0	NULL
+1092999	58	Female	1	Illinois	0	0	0	NULL
+1093055	0	Male	0	Missouri	0	0	0	NULL
+1093108	62	Female	0	Illinois	0	0	0	NULL
+1093112	59	Female	0	Missouri	0	0	0	NULL
+1093114	64	Female	0	Arizona	0	0	0	NULL
+1093170	58	Female	0	Illinois	0	0	0	NULL
+1093223	82	Female	1	Florida	0	1	0	NULL
+1097601	0	Male	0	Illinois	0	0	0	NULL
+1098740	60	Female	0	Illinois	0	0	0	NULL
+1099190	58	Female	0	Illinois	0	0	5	160
+1099266	58	Female	1	Florida	0	0	0	NULL
+1099267	59	Female	1	Texas	0	0	0	NULL
+1099276	61	Female	0	Texas	0	0	0	NULL
+1099394	61	Female	1	Kansas	0	0	0	NULL
+1099477	63	Female	0	Illinois	0	0	1	NULL
+1099488	59	Female	1	California	0	0	0	NULL
+1099499	59	Female	0	Illinois	1	0	0	NULL
+1099509	58	Female	0	Pennsylvania	0	0	0	NULL
+1099715	56	Female	0	Illinois	0	0	0	NULL
+1099742	57	Female	1	Wisconsin	0	0	0	NULL
+1099760	55	Female	1	Illinois	0	0	0	NULL
+1099815	57	Female	0	Illinois	1	0	0	NULL
+1099826	57	Female	1	Illinois	0	0	1	NULL
+1101210	62	Male	1	California	0	0	0	NULL
+1101250	56	Female	0	Illinois	0	0	0	NULL
+1101342	71	Male	0	No State	0	1	0	NULL
+1103746	64	Female	0	Virginia	0	0	0	NULL
+1103765	63	Female	0	California	0	0	0	NULL
+1103803	55	Female	1	Illinois	0	1	0	NULL
+1103859	61	Female	0	Colorado	0	0	0	NULL
+1103893	60	Female	0	Kansas	0	0	0	NULL
+1103941	67	Male	0	No State	0	0	0	NULL
+1103945	72	Female	0	Illinois	0	0	0	NULL
+1104065	59	Female	0	Illinois	0	0	0	NULL
+1104167	67	Female	0	Puerto Rico	0	0	0	NULL
+1104220	55	Female	1	Indiana	0	0	0	NULL
+1104282	61	Female	0	Georgia	0	0	0	NULL
+1104344	53	Female	1	Colorado	0	0	0	NULL
+1104398	75	Female	0	Illinois	0	0	0	NULL
+1104942	0	Female	1	California	0	0	0	NULL
+1104987	96	Female	1	No State	0	0	0	NULL
+1105536	58	Female	0	Illinois	0	0	0	NULL
+1106553	60	Male	1	Illinois	0	0	0	50
+1107828	54	Female	0	Illinois	0	0	0	NULL
+1107937	78	Female	0	No State	0	0	0	NULL
+1107961	68	Female	0	Illinois	0	0	0	NULL
+1107975	60	Female	0	Illinois	0	1	0	NULL
+1108041	60	Male	0	Colorado	2	0	0	NULL
+1108075	66	Female	0	California	0	0	0	NULL
+1108146	61	Male	0	North Carolina	0	0	0	NULL
+1108154	83	Female	0	Illinois	0	1	0	NULL
+1108162	58	Female	0	Illinois	0	0	0	NULL
+1108286	71	Female	0	Maryland	0	0	0	NULL
+1108292	64	Male	0	Illinois	0	0	0	NULL
+1108334	56	Female	0	Illinois	0	0	0	NULL
+1108355	76	Male	0	Minnesota	0	0	0	NULL
+1112383	64	Female	1	Maine	0	0	0	NULL
+1112386	57	Female	1	Tennessee	0	0	0	NULL
+1112521	57	Female	0	Illinois	0	0	0	NULL
+1112525	65	Male	0	Washington	0	0	0	NULL
+1112632	60	Female	0	Minnesota	0	0	0	NULL
+1112775	57	Female	0	Illinois	0	0	0	NULL
+1112992	63	Female	0	Missouri	0	0	0	NULL
+1113000	65	Female	0	Illinois	0	0	0	NULL
+1113033	57	Female	0	Colorado	0	0	0	NULL
+1113093	56	Female	0	Colorado	0	0	0	NULL
+1113167	53	Female	1	Illinois	0	0	0	25
+1113583	0	Male	0	California	0	0	0	100
+1114288	53	Female	1	Illinois	1	0	0	40
+1114610	73	Female	0	Missouri	0	0	0	50
+1114625	53	Female	0	Oregon	0	0	0	NULL
+1114760	67	Female	0	Illinois	0	0	0	NULL
+1114961	66	Female	0	Wisconsin	0	1	0	NULL
+1115134	85	Female	0	California	0	0	0	NULL
+1115229	53	Female	1	Illinois	0	0	0	NULL
+1115718	91	Female	0	No State	0	0	0	75
+1117738	0	Male	1	Illinois	0	0	0	NULL
+1119260	57	Female	0	Missouri	0	0	0	NULL
+1119345	53	Female	1	Indiana	0	0	0	NULL
+1119621	61	Female	1	Illinois	0	0	0	NULL
+1119700	53	Female	1	California	0	0	0	NULL
+1119756	58	Male	0	Illinois	0	0	0	NULL
+1120789	0	Male	0	Illinois	0	0	0	50
+1121078	65	Female	0	Texas	0	0	0	NULL
+1122735	97	Female	0	Illinois	1	0	0	10
+1123293	60	Female	0	Wisconsin	0	0	0	NULL
+1123297	60	Female	0	California	0	0	0	NULL
+1123468	52	Female	1	Illinois	1	0	0	NULL
+1123563	51	Female	1	Illinois	0	0	0	NULL
+1123579	74	Male	0	Illinois	0	0	0	NULL
+1123590	54	Male	0	Massachusetts	0	0	0	NULL
+1123610	51	Female	0	Illinois	0	0	0	NULL
+1123752	55	Male	1	Illinois	0	0	0	NULL
+1123761	60	Female	1	Indiana	0	0	0	NULL
+1125067	79	Female	1	California	0	0	0	2150
+1127071	81	Male	0	Indiana	0	0	0	NULL
+1132183	57	Female	0	Illinois	0	1	0	NULL
+1132188	58	Female	0	Montana	0	0	0	NULL
+1132373	52	Female	0	Ohio	0	0	0	NULL
+1132389	65	Female	0	Maryland	0	0	0	NULL
+1132609	59	Female	1	Colorado	0	0	0	NULL
+1132676	57	Female	1	Georgia	0	0	0	NULL
+1132696	57	Female	0	Washington	0	0	0	NULL
+1132878	67	Female	0	Illinois	0	0	1	10
+1134121	54	Female	0	Illinois	0	0	0	NULL
+1135245	90	Male	1	No State	0	0	0	NULL
+1135432	0	Male	0	California	0	0	0	NULL
+1139003	69	Female	0	Illinois	0	0	0	NULL
+1139076	88	Male	0	No State	0	0	0	NULL
+1139077	69	Female	0	No State	0	0	0	NULL
+1139087	61	Female	0	California	0	0	0	NULL
+1139159	58	Male	0	California	0	0	0	NULL
+1139175	57	Female	0	Georgia	0	0	0	NULL
+1139182	68	Male	1	Arizona	0	0	0	NULL
+1139199	57	Male	0	Arizona	0	0	0	NULL
+1139208	67	Female	0	Florida	0	0	0	NULL
+1139248	69	Male	0	Ohio	0	2	0	200
+1139263	56	Male	0	Michigan	0	0	0	NULL
+1139391	54	Female	0	Ohio	0	0	0	NULL
+1139401	60	Female	1	Colorado	0	0	0	NULL
+1139429	55	Female	1	Illinois	2	2	0	NULL
+1139475	54	Female	0	New Jersey	0	0	0	NULL
+1140667	75	Male	1	Illinois	0	0	0	NULL
+1140690	57	Male	0	Illinois	0	0	0	NULL
+1140836	65	Male	0	Illinois	0	0	0	115
+1140837	68	Female	0	Illinois	0	0	0	NULL
+1140970	58	Female	1	Illinois	0	0	1	NULL
+1140990	66	Female	0	Arizona	0	0	0	NULL
+1141012	70	Male	0	Rhode Island	0	0	0	NULL
+1147221	57	Male	0	Illinois	0	0	0	NULL
+1147256	80	Female	0	Indiana	0	0	0	NULL
+1147487	56	Female	0	Illinois	0	0	0	NULL
+1147518	61	Male	0	Illinois	0	0	0	NULL
+1147520	60	Male	1	No State	0	1	0	NULL
+1147656	64	Female	0	Illinois	0	1	0	NULL
+1147663	54	Female	0	Texas	0	0	0	NULL
+1147749	60	Female	1	Wisconsin	0	0	0	NULL
+1147820	68	Female	1	Illinois	0	1	0	NULL
+1147831	62	Female	1	New Mexico	0	0	0	NULL
+1147844	58	Male	0	Arizona	0	0	0	NULL
+1148620	0	Male	0	No State	0	0	0	NULL
+1148671	94	Female	0	No State	0	0	0	NULL
+1148762	93	Male	0	No State	0	0	0	170
+1149894	68	Male	1	Armed Forces Europe/Canada/Middle East/Africa	0	0	0	NULL
+1149900	59	Female	1	Illinois	1	0	0	NULL
+1149965	64	Male	1	Illinois	0	0	0	NULL
+1149972	59	Male	0	Indiana	0	0	0	NULL
+1150045	72	Female	0	Texas	0	2	0	NULL
+1150656	0	Male	0	New Mexico	0	0	0	NULL
+1151643	53	Female	0	Illinois	0	0	0	NULL
+1151879	60	Female	0	Illinois	0	0	0	NULL
+1155811	90	Female	1	No State	0	0	0	NULL
+1159449	82	Female	0	No State	0	0	0	NULL
+1160701	58	Female	0	Illinois	0	0	0	NULL
+1160799	61	Female	0	Florida	0	0	0	NULL
+1160803	55	Female	0	Illinois	0	0	0	NULL
+1160853	55	Female	0	Florida	0	0	0	NULL
+1160864	79	Female	0	Iowa	0	0	0	NULL
+1160872	66	Male	0	Illinois	0	0	0	225
+1160873	58	Male	0	Oregon	0	0	0	NULL
+1160878	56	Female	0	Florida	0	0	0	NULL
+1160887	62	Male	0	Illinois	0	0	0	NULL
+1161223	54	Female	0	Illinois	0	0	0	NULL
+1161516	0	Male	0	California	0	0	0	NULL
+1162437	60	Female	0	Illinois	0	0	0	NULL
+1162443	67	Male	0	Texas	0	0	0	NULL
+1162463	67	Female	0	Illinois	0	0	0	NULL
+1162495	55	Male	1	Illinois	0	2	0	NULL
+1162550	53	Female	0	Colorado	0	0	0	NULL
+1162650	57	Female	0	North Carolina	0	0	0	20
+1162687	51	Female	0	Illinois	0	0	0	NULL
+1162848	60	Female	1	Maryland	0	0	0	790
+1162876	51	Female	0	Illinois	0	0	0	NULL
+1163130	50	Female	1	Illinois	0	0	0	NULL
+1163244	51	Female	0	Virginia	0	0	0	NULL
+1163247	56	Female	1	Illinois	0	1	0	NULL
+1163269	67	Male	1	Illinois	1	1	0	NULL
+1163404	58	Male	0	Illinois	0	1	0	NULL
+1163523	72	Female	0	Illinois	0	0	0	NULL
+1163883	88	Female	0	No State	0	0	0	NULL
+1164215	0	Female	0	California	0	0	0	NULL
+1164222	90	Male	0	No State	0	0	0	NULL
+1166458	88	Female	0	New Jersey	0	0	0	100
+1171843	55	Female	1	Arizona	0	0	0	40
+1171893	56	Female	1	Illinois	0	0	0	50
+1171913	57	Male	0	Illinois	0	0	0	NULL
+1171922	53	Female	0	Illinois	0	0	1	NULL
+1172301	62	Female	1	No State	0	0	0	NULL
+1172310	64	Female	0	California	0	0	0	NULL
+1172325	51	Female	0	California	0	0	0	NULL
+1172340	65	Female	0	No State	0	0	0	NULL
+1172439	63	Female	1	Texas	0	0	0	NULL
+1172471	78	Female	0	Illinois	0	0	0	NULL
+1172945	92	Male	0	Georgia	0	0	0	NULL
+1173175	0	Female	1	Kansas	0	0	0	NULL
+1173630	50	Female	0	Illinois	0	0	1	NULL
+1174597	49	Female	1	Illinois	2	0	0	NULL
+1175926	59	Female	0	Iowa	0	0	0	NULL
+1176049	66	Female	0	Illinois	0	0	0	NULL
+1176065	52	Female	0	Virginia	0	0	0	NULL
+1176092	59	Female	0	No State	0	0	0	NULL
+1176198	64	Female	1	Illinois	0	0	1	NULL
+1176252	49	Female	1	Washington	0	0	0	NULL
+1176255	49	Female	0	Illinois	0	0	0	NULL
+1177367	89	Male	0	No State	0	0	0	NULL
+1177632	92	Female	1	Arizona	0	0	0	NULL
+1177672	85	Male	1	Arizona	0	0	0	NULL
+1177715	0	Female	0	No State	0	0	0	NULL
+1180013	0	Female	1	Illinois	0	0	0	NULL
+1182088	94	Male	0	No State	0	8	0	3000
+1182193	92	Female	1	No State	0	0	0	65
+1182958	49	Female	0	Illinois	0	0	0	NULL
+1183351	63	Male	0	Illinois	0	0	1	NULL
+1183352	52	Female	1	Illinois	0	0	0	25
+1183354	71	Male	0	Indiana	0	0	0	NULL
+1183398	52	Male	0	Illinois	0	0	1	NULL
+1183538	54	Female	1	Michigan	0	0	0	NULL
+1183569	66	Female	1	Illinois	0	0	0	NULL
+1184398	0	Female	0	New York	0	0	0	NULL
+1184503	109	Male	1	No State	2	2	0	NULL
+1184621	83	Female	0	New York	0	0	0	NULL
+1187733	48	Female	0	Indiana	0	0	0	NULL
+1187792	51	Male	0	Illinois	0	0	0	NULL
+1188036	54	Female	0	Illinois	0	0	0	NULL
+1188038	52	Female	1	Illinois	0	0	4	100
+1189414	60	Female	1	Illinois	0	0	0	NULL
+1189607	51	Female	1	Wisconsin	0	0	0	NULL
+1189724	50	Female	0	Texas	0	0	0	NULL
+1189766	51	Female	0	Illinois	0	0	0	NULL
+1195076	89	Male	1	Illinois	0	0	0	20
+1195237	93	Male	1	No State	0	0	0	80
+1195860	0	Female	0	Minnesota	0	0	0	20
+1196135	48	Female	0	Illinois	0	0	0	NULL
+1196230	49	Female	0	Illinois	0	0	0	NULL
+1196241	49	Female	0	Illinois	0	0	0	NULL
+1196293	48	Female	0	Illinois	0	0	0	NULL
+1196342	48	Female	0	Illinois	0	0	0	NULL
+1196479	49	Female	0	Wisconsin	0	0	0	NULL
+1196568	54	Female	1	Pennsylvania	0	0	0	NULL
+1196761	65	Female	1	Alaska	0	1	0	NULL
+1196890	60	Female	1	Illinois	0	0	0	NULL
+1197495	0	Female	0	Illinois	0	0	0	25
+1197569	0	Male	0	No State	0	0	0	NULL
+1197678	94	Male	0	Wisconsin	0	0	0	NULL
+1199098	48	Female	1	Illinois	0	1	0	NULL
+1199135	59	Female	0	Missouri	0	0	0	NULL
+1199256	53	Male	1	Illinois	0	0	0	NULL
+1199318	48	Female	0	California	0	0	0	NULL
+1199319	54	Female	0	Illinois	0	5	5	225
+1199320	47	Female	0	Illinois	0	0	0	NULL
+1200034	0	Male	0	Florida	0	0	0	NULL
+1200161	84	Female	0	Arizona	0	1	0	NULL
+1200270	100	Female	0	No State	3	0	0	NULL
+1200544	52	Male	0	Virginia	0	0	0	NULL
+1200588	60	Female	0	Washington	0	0	0	NULL
+1200679	59	Female	0	No State	0	0	0	NULL
+1200753	48	Female	0	Texas	0	0	0	NULL
+1200971	54	Female	1	Indiana	0	0	0	NULL
+1201768	76	Female	0	California	0	0	0	NULL
+1201793	0	Male	0	Missouri	0	0	0	NULL
+1201810	0	Female	0	Arizona	0	1	0	25
+1201839	0	Male	0	No State	0	0	0	NULL
+1204443	76	Female	0	Arizona	0	0	0	NULL
+1204474	86	Female	0	No State	0	0	0	25
+1205119	55	Male	0	Washington	0	0	0	20
+1205136	49	Female	0	Colorado	0	0	0	NULL
+1206292	0	Female	0	Georgia	0	0	0	NULL
+1207086	81	Male	0	Missouri	0	0	0	NULL
+1207443	48	Male	1	Illinois	0	0	0	NULL
+1207714	50	Female	0	Illinois	0	0	0	NULL
+1207787	66	Female	0	No State	0	0	0	NULL
+1207798	63	Female	0	No State	0	0	0	NULL
+1207967	60	Female	0	Illinois	0	0	0	NULL
+1207976	46	Male	0	Illinois	0	0	0	NULL
+1209387	95	Male	0	Wisconsin	0	0	0	NULL
+1213225	0	Male	0	Illinois	0	0	0	NULL
+1213290	0	Male	0	California	0	0	0	NULL
+1214224	52	Female	1	Illinois	0	0	0	55
+1214313	46	Female	1	Illinois	0	0	0	NULL
+1214337	46	Female	0	Colorado	0	0	0	NULL
+1214373	68	Female	0	Nebraska	0	2	0	NULL
+1214679	48	Female	1	Michigan	0	0	0	NULL
+1214989	49	Female	0	Illinois	0	0	0	NULL
+1215502	0	Male	0	Illinois	0	0	0	NULL
+1215553	0	Female	0	Illinois	0	0	0	NULL
+1215555	0	Female	0	Illinois	0	0	0	NULL
+1217830	0	Female	1	Illinois	0	0	0	125
+1219309	51	Female	0	Illinois	0	0	0	NULL
+1220182	0	Female	0	No State	0	0	0	NULL
+1220221	0	Female	0	Illinois	0	0	0	NULL
+1220373	0	Male	0	California	0	0	0	NULL
+1220382	0	Female	1	California	0	0	0	400
+1220696	56	Female	0	Colorado	0	0	0	NULL
+1220863	52	Female	0	Illinois	0	0	0	NULL
+1220951	62	Female	0	Illinois	0	0	0	NULL
+1221014	61	Female	1	No State	0	0	0	NULL
+1221028	79	Female	0	No State	0	0	0	NULL
+1221029	86	Female	1	No State	1	0	0	NULL
+1221030	76	Female	0	No State	0	0	0	NULL
+1224336	77	Female	1	Colorado	0	0	0	755
+1224458	0	Male	1	Missouri	0	0	0	NULL
+1224472	0	Female	0	Illinois	0	0	0	NULL
+1224673	0	Female	0	Arizona	0	0	0	NULL
+1225291	0	Female	0	Illinois	0	0	0	NULL
+1225373	50	Female	0	Illinois	0	0	0	NULL
+1225375	67	Female	1	Illinois	0	2	0	NULL
+1225406	47	Female	1	Illinois	0	0	0	NULL
+1225477	46	Female	1	Illinois	0	0	0	NULL
+1225595	59	Female	0	Illinois	0	0	0	NULL
+1226555	76	Female	0	No State	0	1	0	40
+1226690	0	Male	0	Illinois	0	0	0	NULL
+1226757	0	Female	0	Illinois	0	0	0	NULL
+1226793	83	Male	1	Mississippi	0	0	0	NULL
+1226794	0	Female	0	Colorado	0	0	0	NULL
+1226799	0	Female	0	Illinois	0	0	0	NULL
+1227192	71	Female	0	Illinois	0	1	0	NULL
+1227299	0	Female	0	No State	0	0	0	NULL
+1227301	0	Male	0	No State	0	0	0	NULL
+1227379	0	Female	1	Missouri	0	0	0	NULL
+1227389	70	Female	1	New Hampshire	0	0	0	180
+1227591	0	Female	0	Massachusetts	0	0	0	NULL
+1227592	0	Female	0	Oregon	0	0	0	NULL
+1227593	0	Male	0	Illinois	0	1	0	NULL
+1227615	0	Male	1	Illinois	0	0	0	25
+1227616	75	Male	1	Illinois	0	29	0	2550
+1227617	0	Male	0	Illinois	0	0	0	50
+1227618	0	Female	0	Arizona	0	0	0	NULL
+1227619	81	Female	0	Virginia	0	0	0	100
+1227909	58	Female	1	Illinois	0	0	0	NULL
+1228090	51	Female	0	Massachusetts	0	0	0	NULL
+1228231	79	Female	1	Illinois	0	2	0	NULL
+1228836	0	Female	0	No State	0	0	0	NULL
+1231548	98	Female	0	No State	15	0	0	480
+1231889	0	Female	1	Michigan	0	0	0	NULL
+1231934	79	Female	0	New York	0	0	0	NULL
+1232111	64	Female	1	Illinois	0	0	0	NULL
+1232137	64	Female	0	Illinois	0	0	0	NULL
+1232322	63	Female	0	Illinois	0	0	0	NULL
+1232357	63	Female	0	Illinois	0	0	1	NULL
+1232598	45	Female	0	Illinois	0	0	0	NULL
+1232615	46	Female	0	Texas	0	0	0	NULL
+1232641	51	Female	0	Illinois	0	0	0	NULL
+1232687	49	Female	0	Illinois	0	1	1	NULL
+1232743	63	Female	1	Missouri	0	0	0	NULL
+1232783	48	Female	0	Illinois	0	0	0	NULL
+1232785	68	Male	1	Pennsylvania	0	0	0	NULL
+1232797	59	Female	0	Wisconsin	0	0	0	NULL
+1232851	48	Female	0	Illinois	0	0	1	NULL
+1232894	70	Female	0	Illinois	0	0	0	NULL
+1233001	71	Female	0	Illinois	0	0	0	NULL
+1233035	47	Female	1	Washington	0	0	0	NULL
+1233044	60	Female	0	Alabama	0	0	0	NULL
+1233045	48	Female	0	Maryland	0	0	0	NULL
+1233048	52	Female	0	Iowa	0	0	0	NULL
+1233138	50	Female	0	Mississippi	0	0	0	NULL
+1233150	66	Female	1	Illinois	0	0	0	NULL
+1233454	0	Female	1	No State	0	0	0	NULL
+1233541	61	Female	1	Ohio	0	0	0	NULL
+1233828	0	Female	1	Illinois	0	0	0	NULL
+1234277	75	Female	1	Illinois	0	0	0	85
+1244723	50	Female	1	Texas	0	0	0	550
+1244726	54	Female	1	Illinois	6	0	0	220
+1244796	61	Female	1	Guam	0	0	0	NULL
+1244825	64	Female	0	Illinois	0	1	0	NULL
+1244841	47	Female	1	Illinois	0	0	0	NULL
+1244939	46	Female	0	North Carolina	0	0	0	NULL
+1246432	57	Female	0	Mississippi	0	0	0	NULL
+1246440	50	Male	0	Arizona	0	0	0	NULL
+1246605	47	Female	0	Illinois	0	1	0	NULL
+1248728	46	Female	1	Washington	0	0	0	NULL
+1248729	47	Female	0	Illinois	0	0	0	NULL
+1248756	45	Female	0	Illinois	0	0	0	NULL
+1251928	45	Female	0	Illinois	0	0	0	NULL
+1251996	47	Female	0	Illinois	0	0	0	NULL
+1253147	61	Female	1	Illinois	0	0	0	NULL
+1253193	0	Female	0	Illinois	0	0	0	355
+1253289	44	Female	0	Illinois	0	0	0	NULL
+1253324	49	Male	1	Georgia	0	0	0	NULL
+1253325	46	Female	0	Missouri	0	0	0	NULL
+1253326	47	Male	1	Illinois	0	1	0	75
+1253327	45	Female	0	Illinois	0	0	1	NULL
+1253328	46	Female	0	Illinois	0	0	0	75
+1253329	75	Female	0	Oregon	0	2	0	NULL
+1253342	48	Female	0	Maryland	0	1	0	NULL
+1253347	49	Female	0	Illinois	0	0	0	NULL
+1253358	49	Male	0	Nevada	0	0	0	NULL
+1253390	51	Female	0	No State	0	0	0	NULL
+1253406	50	Female	1	Illinois	0	0	0	NULL
+1253472	48	Female	0	No State	0	0	0	NULL
+1253503	46	Female	0	Illinois	0	0	0	NULL
+1253504	45	Female	0	Illinois	0	0	0	NULL
+1253540	60	Female	1	Washington	0	0	0	NULL
+1253575	46	Female	0	Illinois	0	0	1	NULL
+1253616	57	Female	0	Illinois	0	0	0	NULL
+1253694	60	Female	0	Illinois	0	0	0	NULL
+1253695	50	Female	0	Illinois	0	0	1	NULL
+1253916	45	Female	0	Illinois	0	0	0	NULL
+1253917	52	Female	0	California	0	2	0	1050
+1253918	58	Female	0	Florida	0	0	0	NULL
+1253919	46	Female	0	Illinois	0	0	0	NULL
+1253988	53	Female	0	Illinois	0	0	0	NULL
+1253998	56	Male	0	Illinois	0	2	0	350
+1254003	55	Female	0	Illinois	0	1	0	NULL
+1254007	59	Female	0	Illinois	0	0	0	225
+1254485	0	Female	1	Illinois	0	0	0	45
+1254496	0	Female	1	Missouri	0	0	0	NULL
+1254573	90	Male	0	No State	0	0	0	NULL
+1254736	72	Female	1	Texas	0	0	0	NULL
+1254945	65	Female	1	Illinois	0	2	2	50
+1255509	0	Female	0	Illinois	0	0	0	NULL
+1256144	51	Male	0	Idaho	0	0	0	NULL
+1256424	55	Male	0	No State	0	0	0	NULL
+1256481	46	Female	1	Illinois	0	1	1	25
+1256598	48	Female	0	Illinois	0	0	0	NULL
+1256608	48	Female	0	Illinois	0	0	0	NULL
+1257973	46	Female	0	Illinois	0	0	0	NULL
+1258013	50	Female	0	Colorado	0	0	0	NULL
+1258026	46	Female	1	Ohio	0	0	0	NULL
+1258060	48	Female	0	Illinois	0	0	0	NULL
+1258081	56	Female	0	Illinois	0	0	0	NULL
+1258111	49	Female	0	Wisconsin	0	0	0	NULL
+1258128	49	Female	0	Illinois	0	1	0	NULL
+1258135	47	Male	0	Illinois	0	0	0	NULL
+1258150	46	Female	1	Illinois	0	0	0	NULL
+1258159	73	Male	0	Arizona	0	0	0	NULL
+1258175	45	Female	0	Illinois	0	1	0	NULL
+1260380	55	Female	0	Illinois	0	0	0	NULL
+1260387	49	Female	0	Illinois	0	0	0	NULL
+1260389	45	Female	0	Mississippi	0	0	0	NULL
+1260406	45	Male	0	North Carolina	0	0	0	NULL
+1260425	46	Female	1	Illinois	0	0	0	NULL
+1260459	46	Female	1	Illinois	0	0	0	NULL
+1260524	47	Female	0	Illinois	0	0	0	50
+1260573	60	Male	0	New York	0	0	0	NULL
+1260578	65	Female	1	North Carolina	0	74	0	1640
+1260580	57	Female	0	Illinois	0	0	0	NULL
+1260584	52	Female	1	Illinois	0	0	6	140
+1260592	62	Female	0	Indiana	0	0	0	NULL
+1260739	65	Female	1	Illinois	0	0	0	NULL
+1260911	48	Female	0	Illinois	0	0	0	NULL
+1260917	46	Female	0	Illinois	0	0	0	20
+1260920	55	Female	0	Illinois	1	0	0	NULL
+1261036	45	Female	0	Illinois	0	0	0	NULL
+1261037	44	Female	0	Illinois	0	0	0	NULL
+1261038	44	Female	0	Colorado	0	0	0	NULL
+1261063	62	Female	0	Illinois	0	0	1	NULL
+1261064	44	Male	0	California	0	0	0	NULL
+1261138	66	Female	0	Illinois	0	0	0	NULL
+1265497	64	Female	0	Iowa	0	1	0	NULL
+1265506	62	Female	0	Illinois	0	0	0	NULL
+1265514	46	Female	1	Illinois	0	0	1	NULL
+1265524	62	Male	1	Illinois	0	0	0	NULL
+1265634	62	Female	0	Illinois	0	0	0	NULL
+1265639	77	Male	0	Wisconsin	0	0	0	NULL
+1265840	43	Female	0	Illinois	0	0	0	NULL
+1265841	43	Female	0	Illinois	0	0	0	NULL
+1265850	43	Male	0	Illinois	0	0	0	NULL
+1265901	50	Female	1	Illinois	0	8	0	200
+1265940	61	Female	0	Illinois	0	0	1	NULL
+1266071	46	Female	1	Colorado	0	0	0	NULL
+1276997	48	Female	0	Illinois	0	0	0	NULL
+1277001	50	Female	0	Illinois	0	0	0	NULL
+1277030	45	Female	0	Illinois	0	0	0	NULL
+1277035	46	Female	0	Washington	0	0	0	NULL
+1277044	45	Female	1	Illinois	0	1	0	NULL
+1277045	46	Female	0	North Carolina	0	0	0	NULL
+1277050	45	Female	0	Illinois	0	0	0	NULL
+1277051	47	Female	0	Missouri	0	0	1	NULL
+1277054	58	Male	0	Illinois	0	0	0	NULL
+1277058	49	Female	0	Illinois	0	0	0	NULL
+1277217	44	Female	1	Pennsylvania	0	0	0	NULL
+1277239	49	Female	0	Illinois	0	0	0	NULL
+1277247	48	Female	0	Illinois	0	0	0	NULL
+1277252	77	Female	0	Illinois	0	0	0	NULL
+1277383	51	Female	0	North Carolina	0	0	0	NULL
+1277553	44	Female	0	Indiana	0	0	0	NULL
+1277554	43	Female	0	Illinois	0	0	0	NULL
+1277555	43	Female	1	California	0	0	0	NULL
+1277650	54	Female	1	New Jersey	0	0	0	NULL
+1287393	89	Female	0	No State	0	0	0	NULL
+1288472	44	Female	0	Illinois	0	0	1	NULL
+1288822	64	Female	0	Colorado	0	0	0	NULL
+1288935	60	Female	0	Tennessee	0	0	0	NULL
+1289109	43	Female	1	Indiana	0	2	0	NULL
+1290730	81	Female	0	Illinois	0	0	0	NULL
+1295114	79	Male	0	Illinois	0	1	0	NULL
+1300992	46	Female	1	Arizona	0	0	0	NULL
+1301036	52	Female	1	Illinois	0	1	0	NULL
+1301074	52	Female	1	Nevada	0	0	0	NULL
+1301088	66	Female	0	Illinois	0	0	0	NULL
+1301135	49	Female	0	California	0	1	0	NULL
+1301136	60	Female	0	Illinois	0	0	1	NULL
+1301200	42	Female	1	Illinois	0	1	0	NULL
+1301238	62	Female	0	Illinois	0	0	0	NULL
+1302298	79	Female	1	Illinois	1	0	0	NULL
+1306153	87	Male	0	No State	0	0	0	NULL
+1308785	79	Female	0	Illinois	0	0	0	NULL
+1308990	83	Male	0	No State	1	0	0	NULL
+1311569	100	Female	0	No State	0	0	0	NULL
+1313170	77	Male	0	Illinois	0	0	0	NULL
+1313714	75	Female	1	New York	0	0	0	3290
+1314054	74	Female	0	Pennsylvania	0	0	0	NULL
+1314056	74	Male	0	Florida	0	0	0	NULL
+1315206	44	Female	0	Texas	0	0	0	NULL
+1315364	82	Female	0	North Carolina	0	0	0	NULL
+1315727	83	Male	0	No State	0	0	0	NULL
+1315890	76	Male	0	Illinois	0	0	0	NULL
+1315921	93	Female	0	No State	0	0	0	10
+1316306	98	Female	0	No State	0	0	0	NULL
+1316372	76	Female	0	Arizona	0	0	0	55
+1316607	45	Female	0	Utah	0	0	0	NULL
+1316687	70	Female	0	Illinois	0	0	0	NULL
+1316780	48	Female	1	California	0	0	0	NULL
+1316817	47	Male	0	Illinois	0	0	0	NULL
+1316989	46	Female	0	Indiana	0	0	0	NULL
+1317004	51	Female	1	Illinois	0	0	0	NULL
+1317078	44	Female	1	Illinois	0	0	0	NULL
+1327717	79	Female	0	Illinois	0	0	0	NULL
+1329943	82	Male	0	No State	0	0	0	NULL
+1330184	79	Male	0	Washington	0	0	0	NULL
+1331855	78	Male	1	Illinois	0	0	0	NULL
+1331864	60	Female	1	Illinois	0	0	0	400
+1333041	44	Female	1	Illinois	0	0	0	NULL
+1333402	44	Female	0	Illinois	0	0	1	NULL
+1334236	80	Male	0	No State	0	0	0	55
+1334676	105	Female	0	California	0	0	0	NULL
+1336493	81	Male	0	Florida	0	0	0	NULL
+1338315	76	Female	0	Illinois	0	0	0	NULL
+1338696	44	Male	0	Illinois	0	0	0	NULL
+1339007	82	Male	0	No State	0	0	0	NULL
+1339666	79	Female	0	No State	0	0	0	NULL
+1339773	103	Female	0	No State	0	0	0	NULL
+1339774	93	Female	0	No State	0	0	0	75
+1339855	76	Male	0	Minnesota	0	0	0	150
+1339863	76	Female	0	Oregon	0	0	0	NULL
+1343198	63	Female	1	Illinois	0	0	0	NULL
+1343243	44	Female	0	Illinois	0	0	0	NULL
+1343365	43	Female	1	Illinois	0	0	3	125
+1343366	42	Female	0	Illinois	0	0	0	NULL
+1343871	74	Male	0	Indiana	0	0	0	NULL
+1343873	74	Female	1	Wisconsin	0	0	0	50
+1344275	75	Male	1	Illinois	0	0	0	NULL
+1344293	74	Female	0	Minnesota	0	0	0	NULL
+1344639	48	Female	0	Illinois	0	0	1	NULL
+1344928	65	Female	0	Illinois	0	0	1	NULL
+1345056	53	Female	0	Illinois	0	0	0	NULL
+1345057	61	Male	0	Illinois	0	0	0	NULL
+1347254	62	Female	1	Illinois	0	0	0	NULL
+1347292	51	Female	1	Washington	0	2	0	NULL
+1347368	42	Female	0	Illinois	0	0	0	NULL
+1347488	46	Female	0	Florida	0	0	0	NULL
+1347782	53	Female	0	Tennessee	0	0	0	NULL
+1347943	49	Female	0	Illinois	0	0	0	NULL
+1348088	62	Female	0	No State	0	0	0	NULL
+1349021	55	Female	1	Illinois	22	22	0	NULL
+1350289	44	Female	0	Illinois	0	0	0	NULL
+1351756	42	Female	1	Texas	0	0	1	NULL
+1351797	46	Male	0	Illinois	0	0	0	NULL
+1351890	54	Female	0	Illinois	0	0	0	NULL
+1351891	44	Female	0	Illinois	0	0	0	NULL
+1351965	44	Female	0	Illinois	0	0	0	NULL
+1352057	43	Female	0	Illinois	0	0	0	NULL
+1352222	56	Female	0	Illinois	0	0	0	NULL
+1354447	82	Female	0	No State	1	0	0	NULL
+1354762	65	Female	0	Idaho	0	0	0	NULL
+1354794	46	Female	0	Texas	0	0	0	NULL
+1354805	66	Female	0	Illinois	0	0	0	NULL
+1354959	46	Female	1	New Jersey	0	0	0	NULL
+1355002	46	Female	0	North Carolina	0	0	0	NULL
+1355372	75	Male	0	Indiana	0	0	0	NULL
+1355854	74	Male	0	No State	0	0	0	NULL
+1356378	47	Male	0	Illinois	0	0	0	NULL
+1356381	45	Female	1	Illinois	0	0	0	NULL
+1356513	48	Female	0	Illinois	0	0	0	NULL
+1356518	56	Female	0	Illinois	0	1	0	NULL
+1356520	44	Female	1	Colorado	0	0	0	NULL
+1357893	76	Male	0	No State	0	0	0	NULL
+1358612	76	Female	0	Florida	0	0	0	NULL
+1358709	54	Female	1	Illinois	0	0	0	NULL
+1359195	67	Female	0	Georgia	1	0	0	25
+1359350	37	Female	1	Washington	0	0	0	NULL
+1360423	28	Female	0	Illinois	0	0	0	NULL
+1363832	38	Male	0	Illinois	0	16	16	700
+1364144	54	Female	0	Wisconsin	0	0	0	NULL
+1364153	53	Female	0	Indiana	0	0	0	NULL
+1364176	56	Female	0	California	0	0	0	NULL
+1364189	54	Female	0	Illinois	0	0	0	NULL
+1364194	70	Female	1	Florida	0	0	0	NULL
+1364233	79	Female	0	California	0	0	0	NULL
+1364237	74	Female	0	Illinois	0	0	0	NULL
+1364275	93	Male	0	Illinois	0	0	0	NULL
+1364295	66	Female	0	Illinois	0	0	0	NULL
+1364332	57	Female	0	Illinois	0	0	0	NULL
+1364338	53	Female	0	Illinois	0	0	0	NULL
+1364386	57	Male	0	Illinois	0	0	0	NULL
+1364434	55	Female	1	Illinois	2	0	0	NULL
+1364507	55	Female	0	Illinois	0	0	0	NULL
+1365859	55	Male	1	Illinois	0	0	0	NULL
+1367727	0	Female	0	No State	0	0	1	NULL
+1368352	56	Female	0	Illinois	0	0	0	NULL
+1368356	59	Female	1	Missouri	0	0	1	NULL
+1368470	55	Female	1	Illinois	0	0	0	105
+1368527	53	Male	0	Illinois	0	0	0	NULL
+1368532	59	Female	0	New Jersey	0	0	0	NULL
+1368622	65	Male	0	Illinois	0	0	0	NULL
+1368698	57	Female	0	Illinois	0	0	0	NULL
+1368851	62	Female	0	Colorado	0	0	0	NULL
+1368876	93	Male	0	No State	0	0	0	NULL
+1368928	52	Female	0	California	0	0	0	NULL
+1368975	79	Female	0	Florida	0	0	0	NULL
+1369874	33	Female	1	Illinois	0	0	0	20
+1371132	52	Female	0	Illinois	0	0	0	NULL
+1371144	56	Female	0	Arizona	0	0	0	NULL
+1371158	81	Male	0	Missouri	0	1	0	NULL
+1371216	71	Female	1	Tennessee	0	1	0	NULL
+1371220	53	Female	0	Virginia	0	0	0	NULL
+1371255	55	Female	0	Pennsylvania	0	0	0	NULL
+1371328	52	Female	0	Illinois	0	0	0	NULL
+1372792	53	Female	0	California	0	0	0	NULL
+1372851	59	Male	1	Illinois	0	0	0	NULL
+1372872	59	Female	0	South Carolina	0	0	0	NULL
+1372933	63	Female	0	Alabama	0	0	0	NULL
+1372986	60	Female	0	Illinois	0	0	0	NULL
+1372988	67	Male	0	Illinois	0	0	0	NULL
+1373058	54	Female	0	Illinois	0	0	0	NULL
+1387964	30	Female	0	Illinois	0	0	0	NULL
+1390027	51	Female	0	Illinois	0	0	0	NULL
+1390047	59	Female	0	Illinois	0	0	0	NULL
+1390174	52	Female	0	Mississippi	0	0	0	NULL
+1390216	60	Female	0	Arizona	0	0	0	NULL
+1390262	61	Female	0	Maryland	0	0	0	NULL
+1391557	64	Female	0	Missouri	0	0	0	NULL
+1391675	55	Male	0	Washington	0	0	0	NULL
+1391678	55	Female	0	Arkansas	0	0	0	NULL
+1391802	56	Female	0	Iowa	0	0	0	NULL
+1391899	57	Female	0	Illinois	0	0	0	NULL
+1393601	31	Female	0	Illinois	0	4	0	NULL
+1401853	52	Female	1	Tennessee	0	0	0	NULL
+1401958	52	Female	0	Illinois	0	0	0	NULL
+1402559	26	Female	0	Illinois	0	0	0	1
+1402732	76	Male	0	No State	0	0	0	NULL
+1403287	75	Female	0	Missouri	0	0	0	NULL
+1405897	57	Female	0	Minnesota	0	0	0	NULL
+1405944	53	Female	1	Virginia	0	0	0	NULL
+1405945	61	Male	0	Illinois	0	0	0	NULL
+1406081	62	Male	0	Illinois	0	0	0	NULL
+1406100	61	Female	0	Illinois	0	0	0	NULL
+1406112	60	Female	0	California	0	0	0	NULL
+1406117	60	Female	0	California	0	0	0	NULL
+1406133	79	Female	1	Arizona	0	0	0	NULL
+1406142	65	Male	1	Illinois	0	0	0	NULL
+1406288	52	Female	0	Illinois	0	0	0	NULL
+1406462	54	Female	0	Oregon	0	0	0	NULL
+1406463	53	Female	0	Illinois	0	0	0	NULL
+1410916	56	Female	0	Illinois	0	0	0	NULL
+1410944	69	Female	0	Illinois	0	0	0	NULL
+1411154	63	Male	1	Illinois	0	0	0	NULL
+1411255	67	Male	0	Kentucky	0	0	0	NULL
+1411283	56	Female	0	Washington	0	0	0	NULL
+1411346	61	Female	0	Illinois	0	1	0	NULL
+1411406	72	Female	0	Illinois	0	0	0	NULL
+1411528	52	Female	0	Illinois	0	0	0	NULL
+1412448	62	Female	1	California	0	0	0	NULL
+1412458	65	Female	1	Minnesota	0	0	0	NULL
+1412460	69	Male	1	Illinois	0	0	0	NULL
+1412537	73	Female	0	Tennessee	0	0	0	NULL
+1412541	67	Female	0	Illinois	0	2	0	NULL
+1412724	63	Female	1	Illinois	0	0	0	NULL
+1412778	63	Male	0	Illinois	0	0	0	NULL
+1414502	38	Female	0	Illinois	0	0	0	NULL
+1414735	58	Male	0	Illinois	0	0	2	350
+1414791	65	Female	1	Illinois	0	4	4	40
+1414961	68	Female	1	Illinois	0	8	0	425
+1414965	66	Female	0	Illinois	0	0	0	NULL
+1416142	57	Female	1	North Carolina	0	0	0	NULL
+1416340	63	Male	0	Illinois	0	0	0	NULL
+1416353	53	Female	0	Illinois	0	0	0	NULL
+1416511	40	Male	0	Illinois	0	0	0	NULL
+1416616	58	Female	0	Illinois	0	0	0	NULL
+1416664	61	Male	1	Illinois	0	0	0	30
+1416747	41	Female	1	Illinois	0	3	3	NULL
+1416915	65	Female	1	Illinois	4	0	4	195
+1417017	57	Female	0	New Jersey	0	2	0	NULL
+1417369	50	Female	0	Minnesota	0	0	0	NULL
+1417409	65	Female	0	North Carolina	0	0	0	NULL
+1417441	53	Female	1	Illinois	0	1	0	NULL
+1417761	57	Male	0	Illinois	0	2	0	NULL
+1417996	48	Female	0	Wisconsin	0	0	0	NULL
+1418661	72	Female	1	Mississippi	0	2	2	NULL
+1418969	76	Male	1	Kansas	0	315	0	1369964.0692749023
+1418994	73	Female	1	New Jersey	0	2	0	NULL
+1419106	55	Female	0	Illinois	25	25	0	NULL
+1419162	74	Female	1	Arizona	0	0	0	30
+1419310	63	Female	1	Kentucky	0	3	0	75
+1419321	64	Female	0	Illinois	0	0	0	NULL
+1419339	46	Female	0	Illinois	0	0	0	NULL
+1419395	69	Female	1	Illinois	7104	7104	7104	2499720
+1420122	67	Female	0	Illinois	0	0	1	NULL
+1420140	64	Female	0	Illinois	0	0	1	NULL
+1420462	51	Female	0	Missouri	0	0	0	NULL
+1420463	50	Female	0	North Carolina	0	0	0	NULL
+1420846	60	Female	0	No State	0	0	0	NULL
+1420984	0	Female	0	No State	0	0	0	NULL
+1421181	42	Female	0	Texas	0	0	0	NULL
+1421196	45	Female	0	Kansas	0	0	1	NULL
+1421206	85	Female	1	Illinois	14	14	0	310
+1422065	63	Male	0	Illinois	0	0	0	NULL
+1422204	64	Male	0	Illinois	0	0	0	NULL
+1423279	44	Female	0	Illinois	0	0	0	NULL
+1423405	47	Female	0	Illinois	0	0	0	NULL
+1423482	57	Female	0	Illinois	0	0	0	NULL
+1423515	44	Female	1	Illinois	0	0	0	NULL
+1423523	42	Female	1	Illinois	0	0	1	NULL
+1423546	55	Male	0	Illinois	1	0	1	NULL
+1423626	45	Female	0	Illinois	0	0	0	NULL
+1423708	50	Female	1	Illinois	0	0	1	NULL
+1423797	40	Female	1	Illinois	0	0	0	NULL
+1423842	44	Female	1	Illinois	0	0	0	NULL
+1423874	46	Female	0	Indiana	0	0	0	NULL
+1423918	47	Female	0	Illinois	0	1	0	NULL
+1423956	52	Female	1	Illinois	0	0	0	NULL
+1423965	56	Female	0	Iowa	0	0	0	NULL
+1423974	42	Female	1	Illinois	0	0	0	125
+1423975	68	Female	0	Illinois	0	1	1	NULL
+1424018	66	Female	0	Illinois	0	0	0	NULL
+1424083	61	Male	0	Illinois	0	0	0	NULL
+1424101	39	Female	0	Illinois	0	0	0	NULL
+1424105	44	Female	0	North Carolina	0	0	0	NULL
+1424177	46	Female	0	Illinois	0	0	0	NULL
+1424259	61	Male	1	Illinois	0	3	0	1200
+1425607	42	Female	1	Maine	0	0	0	NULL
+1425621	69	Female	0	Illinois	0	0	0	NULL
+1425628	52	Female	0	Florida	0	0	0	NULL
+1425858	63	Male	0	Illinois	0	0	0	NULL
+1425972	45	Female	1	Illinois	0	0	0	NULL
+1426034	54	Female	1	Illinois	0	0	0	350
+1426143	60	Female	0	Oregon	0	0	0	NULL
+1426191	51	Female	0	North Carolina	0	0	0	NULL
+1426194	74	Male	0	Georgia	0	0	0	NULL
+1426208	51	Female	0	Illinois	0	0	0	NULL
+1426238	59	Female	1	Illinois	0	0	1	50
+1426478	56	Female	0	New York	0	0	0	2945
+1426570	44	Male	0	Illinois	0	0	0	NULL
+1426577	47	Female	0	Illinois	0	0	0	NULL
+1426579	47	Female	0	Illinois	0	0	0	NULL
+1427432	56	Male	0	Arizona	0	0	0	NULL
+1427436	51	Female	0	California	0	0	0	NULL
+1427452	53	Female	1	North Carolina	0	0	0	NULL
+1427491	50	Female	0	Illinois	0	0	0	NULL
+1427532	57	Male	1	Illinois	1	1	1	NULL
+1427540	52	Female	0	Illinois	0	3	0	NULL
+1427541	69	Female	0	Illinois	0	0	0	NULL
+1427583	64	Female	0	Iowa	0	0	0	NULL
+1427676	52	Female	1	Illinois	0	1	0	NULL
+1427689	61	Female	0	Illinois	0	0	0	NULL
+1427753	49	Female	0	Illinois	0	2	0	NULL
+1428039	96	Female	0	Georgia	0	0	0	220
+1428042	49	Male	0	California	0	1	0	NULL
+1429133	53	Female	1	Illinois	1	0	0	NULL
+1429284	50	Female	0	Illinois	0	0	0	NULL
+1429348	52	Female	0	Illinois	0	0	0	NULL
+1431540	49	Female	1	Illinois	0	0	1	NULL
+1431584	63	Male	0	No State	0	0	0	NULL
+1431595	51	Female	0	California	0	0	0	NULL
+1431695	49	Female	0	Arizona	0	0	0	NULL
+1431696	49	Male	0	Illinois	0	0	0	65
+1431768	57	Female	0	Texas	0	0	0	NULL
+1431843	49	Female	0	Florida	0	0	0	NULL
+1432382	70	Male	1	No State	0	1	0	NULL
+1438953	51	Male	0	Illinois	0	0	0	NULL
+1439402	48	Female	0	Illinois	0	1	0	NULL
+1439425	52	Male	0	Indiana	0	0	0	NULL
+1439464	48	Female	0	Illinois	0	0	0	NULL
+1439521	46	Female	0	Colorado	0	1	0	NULL
+1439661	84	Male	1	Texas	0	0	0	NULL
+1439961	0	Female	1	California	0	0	0	NULL
+1440165	72	Female	0	No State	0	0	0	NULL
+1440902	52	Female	1	Illinois	0	0	0	NULL
+1441928	66	Female	1	Illinois	327	327	0	65400
+1442365	0	Female	0	Minnesota	0	0	0	NULL
+1442455	44	Female	1	Illinois	0	2	0	NULL
+1442981	62	Female	1	Illinois	1	1	1	NULL
+1443901	55	Female	1	Washington	0	0	0	NULL
+1443935	52	Female	0	Illinois	0	0	1	NULL
+1443982	52	Female	0	Illinois	0	0	0	NULL
+1443988	50	Female	0	Illinois	0	0	0	NULL
+1444106	52	Male	1	Illinois	0	0	0	NULL
+1444146	47	Female	0	Illinois	0	0	0	NULL
+1444186	61	Female	0	Illinois	0	2	2	NULL
+1444347	73	Female	1	Indiana	10	10	10	190
+1444426	57	Male	1	Illinois	0	1	1	NULL
+1444475	73	Female	1	Illinois	532	532	0	70300
+1444498	59	Female	1	Idaho	0	11	11	1050
+1444577	58	Male	1	Illinois	0	0	14	1385
+1444622	54	Female	0	Illinois	32	32	32	1900
+1444703	61	Female	0	Illinois	0	0	0	NULL
+1444761	47	Male	1	Illinois	0	1	0	NULL
+1444827	61	Male	0	Illinois	0	4	0	NULL
+1444859	49	Female	1	Illinois	0	48	0	4800
+1444860	46	Male	1	South Dakota	0	2	0	NULL
+1444998	54	Male	1	Illinois	0	6	6	NULL
+1445208	60	Female	1	Wisconsin	0	272	272	1428000
+1445258	53	Female	0	Illinois	0	3	0	130
+1445549	56	Female	1	Missouri	0	0	0	NULL
+1445597	68	Male	0	Indiana	0	0	0	NULL
+1445750	60	Male	0	Washington	0	0	0	NULL
+1445840	52	Female	1	North Carolina	0	0	0	NULL
+1445841	53	Female	0	South Carolina	0	0	0	NULL
+1445842	63	Female	0	North Carolina	0	0	1	NULL
+1446527	62	Male	0	Illinois	0	1	0	NULL
+1446579	53	Female	0	Illinois	0	0	0	25
+1446673	74	Female	0	Florida	0	2	0	NULL
+1446765	60	Female	0	Illinois	0	1	1	NULL
+1446804	66	Male	1	Michigan	0	17	0	15740
+1446926	63	Female	1	Illinois	0	1	1	NULL
+1447484	44	Female	1	Illinois	0	0	0	NULL
+1447578	69	Female	1	Illinois	0	3	0	225
+1448959	58	Male	0	Illinois	0	0	0	NULL
+1449070	49	Female	0	Illinois	0	0	0	NULL
+1449071	46	Female	0	Illinois	0	0	0	NULL
+1449096	55	Female	0	Illinois	0	0	0	NULL
+1449106	69	Female	0	Illinois	0	0	0	NULL
+1449348	46	Female	0	Illinois	0	0	0	NULL
+1449545	84	Male	1	Illinois	600	600	600	180000
+1449709	45	Female	0	Illinois	0	0	0	NULL
+1449861	72	Male	1	Florida	0	0	0	NULL
+1449934	59	Male	1	South Carolina	0	0	12	1750
+1449949	70	Female	0	New Jersey	0	0	0	875
+1450074	48	Female	1	Illinois	0	2	0	NULL
+1450085	46	Female	0	Illinois	0	0	0	NULL
+1450086	47	Female	0	Illinois	0	0	0	NULL
+1450118	81	Female	1	Illinois	0	0	0	NULL
+1450123	68	Female	0	Illinois	0	0	0	NULL
+1450211	61	Female	0	Illinois	0	0	0	NULL
+1450345	54	Female	1	Armed Forces Europe/Canada/Middle East/Africa	0	0	0	NULL
+1450676	56	Female	0	Illinois	0	0	0	NULL
+1450729	50	Female	0	Illinois	0	0	0	NULL
+1450733	60	Female	1	Illinois	2	0	0	NULL
+1450803	61	Male	0	Illinois	0	0	0	NULL
+1450806	63	Female	0	Illinois	0	0	0	NULL
+1450831	49	Female	1	Illinois	0	0	0	NULL
+1450906	53	Female	0	Illinois	0	0	0	NULL
+1450916	53	Female	0	Illinois	0	0	0	NULL
+1451126	84	Female	1	New Mexico	0	0	0	NULL
+1451290	70	Female	1	Washington	0	0	0	NULL
+1451348	43	Female	0	North Carolina	0	0	0	NULL
+1451488	69	Female	1	Michigan	1690	1690	0	396500
+1451554	54	Male	0	Missouri	0	0	0	175
+1451555	79	Female	0	Illinois	0	0	0	55
+1451575	80	Female	1	Michigan	0	0	0	200
+1451576	71	Female	0	Illinois	0	0	0	100
+1451579	73	Female	1	Washington	0	0	0	100
+1451713	71	Female	0	Colorado	0	0	0	200
+1451795	99	Female	1	Colorado	12	0	0	415
+1451823	45	Female	1	North Carolina	0	0	0	700
+1451857	72	Female	0	Maryland	0	0	0	465
+1451977	0	Female	1	Kentucky	0	0	0	NULL
+1452153	70	Male	1	New Jersey	0	0	0	45
+1452179	61	Female	0	Maryland	0	0	6	110
+1452229	61	Male	0	Minnesota	0	0	0	NULL
+1453404	67	Female	1	Texas	0	0	0	20
+1453507	52	Female	0	Tennessee	0	0	0	NULL
+1453519	63	Female	0	North Carolina	0	0	0	80
+1453562	59	Female	1	Florida	0	0	0	1900
+1453644	68	Female	1	Illinois	0	0	0	NULL
+1453712	76	Female	1	Illinois	0	0	0	NULL
+1453760	91	Female	1	No State	480	480	0	25500
+1453785	66	Male	1	Iowa	0	0	0	750
+1453983	64	Female	1	Virginia	0	0	0	535
+1454015	67	Female	0	Florida	0	0	0	NULL
+1454122	69	Female	0	Illinois	0	0	0	NULL
+1454233	48	Female	0	Illinois	0	0	0	NULL
+1454509	52	Female	0	Georgia	0	0	0	NULL
+1455088	48	Male	1	Illinois	0	0	0	NULL
+1455238	51	Female	0	Illinois	0	0	0	NULL
+1455367	75	Female	0	Illinois	1	0	0	NULL
+1455370	48	Female	0	Indiana	0	0	0	NULL
+1455382	51	Female	0	Georgia	0	0	0	NULL
+1455390	50	Female	0	Missouri	0	0	0	NULL
+1455397	48	Female	0	Indiana	0	3	3	NULL
+1455409	61	Male	0	Florida	0	0	0	NULL
+1455413	58	Female	0	Tennessee	0	0	0	NULL
+1455471	53	Female	0	Wisconsin	0	0	0	NULL
+1455548	50	Male	0	Illinois	0	0	1	NULL
+1455592	46	Female	1	Illinois	0	0	0	NULL
+1455685	75	Male	0	Wisconsin	0	0	0	NULL
+1455692	60	Male	1	Illinois	0	1	0	NULL
+1455780	42	Female	1	Illinois	0	1	0	NULL
+1455909	65	Female	0	Illinois	0	0	0	NULL
+1455924	43	Female	0	Illinois	0	0	0	NULL
+1456233	44	Female	0	Illinois	0	0	0	NULL
+1456878	55	Female	1	Illinois	0	0	0	NULL
+1456891	51	Female	0	Illinois	0	0	0	NULL
+1456986	47	Female	1	No State	0	0	0	NULL
+1456987	46	Female	0	Illinois	0	0	0	NULL
+1458067	70	Female	0	California	0	0	0	10
+1458115	64	Female	1	Vermont	0	0	0	580
+1458180	66	Female	1	Illinois	0	0	0	45
+1458225	58	Female	0	Massachusetts	0	0	0	250
+1458238	77	Female	1	Illinois	0	6	6	NULL
+1458304	66	Female	1	Kentucky	0	4	0	110
+1458317	79	Female	0	Illinois	0	0	0	465
+1458359	60	Female	0	Maryland	0	0	0	NULL
+1458375	64	Female	1	Illinois	10	10	0	290
+1458376	60	Male	1	Florida	0	0	0	65
+1458389	98	Female	1	Arizona	0	0	0	1150
+1458650	89	Male	0	No State	0	0	0	410
+1458717	73	Male	1	Colorado	0	0	0	650
+1458728	59	Female	1	Rhode Island	0	0	0	50
+1458845	75	Male	1	Florida	0	0	0	660
+1458849	73	Female	0	Virginia	0	0	0	100
+1458859	60	Female	1	New York	0	0	0	150
+1459179	71	Male	1	Idaho	0	0	0	145
+1460292	87	Female	1	Texas	0	0	0	295
+1460432	62	Female	1	Massachusetts	0	0	0	NULL
+1460502	77	Female	1	California	0	0	0	NULL
+1460570	71	Female	1	Illinois	0	50	50	8200
+1460721	74	Female	1	Illinois	0	0	0	325
+1460759	66	Female	1	New Mexico	0	0	0	390
+1460771	92	Female	1	No State	0	0	0	180
+1460985	70	Female	1	Maryland	0	0	0	NULL
+1461056	57	Male	0	Kentucky	0	0	0	25
+1461105	65	Male	1	Georgia	0	0	0	50
+1461135	67	Female	0	Virginia	0	0	0	50
+1461365	46	Female	1	Illinois	0	52	0	1560
+1461371	63	Female	0	Illinois	0	0	0	NULL
+1461425	59	Female	1	Florida	0	0	0	575
+1462214	48	Female	0	Illinois	0	0	0	NULL
+1462650	71	Female	1	Illinois	0	16	0	2800
+1462690	53	Female	1	Texas	0	0	0	185
+1462785	58	Female	1	Nevada	0	2	0	50
+1462816	70	Male	1	No State	0	0	0	400
+1462819	84	Female	0	No State	0	0	0	50
+1462848	58	Female	1	Illinois	3	3	3	300
+1462911	92	Female	1	Washington	0	260	260	36000
+1463057	80	Female	1	Illinois	0	66	0	3210
+1463100	63	Male	1	No State	0	0	0	50
+1463482	62	Female	1	Illinois	12	12	0	400
+1463569	75	Female	0	New Jersey	0	0	0	25
+1464908	58	Female	1	California	0	0	4	450
+1464915	59	Female	1	No State	0	0	0	195
+1465410	71	Female	0	Illinois	0	44	0	1600
+1465447	42	Female	1	Illinois	0	0	0	15
+1465741	42	Female	1	Illinois	0	0	0	365
+1465869	53	Female	1	Illinois	0	9	0	1850
+1467209	71	Male	1	Illinois	0	88	0	5225
+1467259	73	Female	0	Illinois	0	0	0	5
+1467361	55	Female	0	Minnesota	0	0	0	25
+1467677	64	Male	1	Wisconsin	0	0	0	60
+1467823	49	Female	1	Illinois	0	40	0	2900
+1467828	56	Female	1	Wisconsin	0	0	0	20
+1468119	45	Female	0	Illinois	0	0	0	15
+1468290	59	Female	1	Nebraska	0	0	0	115
+1469785	80	Female	1	Illinois	0	0	12	305
+1469946	55	Female	1	Tennessee	0	0	0	475
+1469962	50	Female	0	Illinois	0	0	2	400
+1470020	60	Female	1	Illinois	20	20	0	700
+1470199	63	Female	1	Illinois	9	0	0	935
+1470341	45	Female	0	Virginia	0	0	0	75
+1470633	81	Female	0	Illinois	0	168	0	4340
+1470634	67	Female	1	Illinois	13	0	0	395
+1470669	59	Female	1	Mississippi	0	0	0	50
+1470732	51	Female	0	Illinois	0	0	0	25
+1471249	65	Female	0	Indiana	0	10	0	490
+1472167	55	Female	1	Wisconsin	0	0	0	75
+1472298	60	Female	1	Illinois	0	0	0	45
+1472410	64	Male	1	Illinois	0	6	6	975
+1472477	65	Female	1	Illinois	0	4	0	310
+1472922	74	Female	1	Illinois	0	12	0	1600
+1474114	62	Female	1	Florida	0	0	0	40
+1474318	69	Female	1	Virginia	0	0	0	775
+1474402	56	Female	0	Illinois	0	0	0	1350
+1474587	57	Female	1	Georgia	0	0	0	25
+1474634	58	Female	1	Wisconsin	0	0	0	65
+1474716	73	Female	1	Ohio	0	0	0	25
+1474797	63	Female	1	Michigan	0	0	0	215
+1474854	64	Female	1	Illinois	0	176	0	26000
+1475095	66	Male	0	Illinois	0	152	152	8760
+1475190	51	Female	0	Illinois	0	0	0	225
+1475603	49	Female	0	Illinois	0	0	0	50
+1476502	42	Female	0	Illinois	0	0	0	30
+1476714	46	Female	1	Colorado	0	0	0	800
+1476730	67	Male	1	Illinois	12	0	0	270
+1476832	58	Male	0	Illinois	0	80	80	5320
+1477096	62	Male	1	Illinois	0	24	0	2120
+1477105	62	Female	1	Illinois	0	0	10	325
+1477123	50	Female	1	Illinois	2	0	0	150
+1477240	50	Male	1	Illinois	0	4	0	350
+1477449	54	Female	1	Florida	0	0	0	40
+1478772	60	Female	1	Nebraska	0	0	0	55
+1478993	72	Female	1	Florida	0	4	0	700
+1479006	65	Female	0	Illinois	0	2	0	200
+1479033	52	Female	1	Illinois	0	5	5	345
+1479344	49	Female	1	Illinois	0	0	0	185
+1479605	74	Female	1	No State	0	0	0	250
+1479641	62	Male	1	Nevada	0	0	0	40
+1479750	66	Female	1	Illinois	4	0	0	160
+1480919	69	Female	1	Illinois	0	0	0	250
+1481000	53	Female	1	Illinois	0	14	0	460
+1481068	66	Female	1	Illinois	0	0	0	20
+1481088	68	Male	1	Illinois	0	0	0	1055
+1481099	65	Female	1	North Carolina	0	0	0	9889.1103515625
+1481211	59	Female	1	Illinois	0	0	0	20
+1481451	54	Female	1	Illinois	0	0	0	175
+1481484	52	Female	1	Georgia	0	0	0	385
+1481511	56	Female	1	Illinois	102	102	0	1890
+1481933	52	Female	1	Illinois	3	0	0	110
+1481944	58	Female	0	Arizona	0	24	0	5680
+1482011	76	Female	1	California	0	0	0	91.25
+1483241	69	Male	1	Illinois	0	0	0	90
+1483275	68	Male	1	California	0	0	0	200
+1483503	59	Female	0	Illinois	0	0	0	75
+1483635	61	Female	1	Illinois	0	0	0	155
+1483718	68	Male	1	Illinois	0	0	0	600
+1483850	60	Female	1	Illinois	0	0	1	25
+1484027	70	Female	1	Illinois	0	0	14	1325
+1484055	42	Male	1	Wisconsin	0	0	0	50
+1484124	68	Male	1	Illinois	0	0	0	10
+1484196	59	Female	1	Illinois	0	0	0	51
+1484328	49	Female	1	Illinois	0	0	4	75
+1485564	52	Female	1	Illinois	0	0	0	150
+1485772	63	Female	1	Illinois	0	21	21	665
+1485857	69	Female	1	Illinois	0	0	0	320
+1485957	46	Female	1	Illinois	0	0	0	25
+1486547	80	Female	1	Illinois	1	0	0	10
+1488053	59	Female	1	Illinois	0	0	4	625
+1488090	48	Female	1	Illinois	0	4	4	550
+1488191	66	Male	1	Illinois	0	5	0	175
+1488434	52	Female	1	Georgia	0	0	0	25
+1488484	47	Female	1	Illinois	0	18	0	410
+1488600	71	Male	0	Illinois	0	0	0	2010
+1488677	60	Male	1	Illinois	14	0	0	330
+1490063	60	Female	1	Illinois	30	30	0	1440
+1490133	62	Female	0	Illinois	0	0	0	70
+1490264	66	Female	1	Wisconsin	0	0	0	760
+1490359	58	Female	1	Illinois	0	3	3	125
+1490396	56	Female	1	Illinois	0	0	0	75
+1490620	71	Male	0	Washington	0	0	0	100
+1490687	52	Male	1	Illinois	0	0	0	50
+1490689	48	Female	1	Illinois	0	22	0	960
+1490814	56	Female	1	Arizona	0	0	0	80
+1490918	84	Female	1	Illinois	0	144	0	17000
+1492460	50	Female	1	Virginia	0	2	0	200
+1492637	75	Female	1	Indiana	0	0	0	585
+1492652	73	Female	0	Illinois	0	0	0	200
+1492797	75	Female	0	Illinois	0	17	0	1085
+1492885	59	Female	0	Illinois	0	0	0	250
+1493033	63	Female	1	Illinois	0	0	0	100
+1493254	62	Female	0	California	0	0	0	60
+1493426	61	Male	1	Colorado	0	0	0	200
+1493453	70	Male	1	Illinois	0	0	11	265
+1494747	70	Female	0	South Carolina	0	0	0	1165
+1494840	68	Female	1	Illinois	18	0	0	685
+1494951	74	Female	1	Illinois	0	55	0	1375
+1494968	69	Female	1	Indiana	0	114	0	10200
+1495003	58	Female	1	Illinois	0	0	0	60
+1495051	39	Female	1	Illinois	0	0	0	30
+1495079	67	Male	1	Washington	0	0	0	30
+1495164	65	Male	0	Illinois	0	0	0	2260
+1495213	66	Female	1	Illinois	0	0	0	25
+1495488	71	Male	1	North Carolina	0	0	0	125
+1495629	63	Female	1	Illinois	14	0	0	485
+1497139	72	Female	0	Arizona	0	0	0	625
+1497315	75	Female	0	No State	0	0	0	25
+1497714	65	Male	1	Nevada	0	2	0	50
+1497797	69	Male	0	Illinois	0	0	0	75
+1497810	62	Female	0	Colorado	0	0	0	10
+1499174	65	Female	1	Illinois	0	0	0	65
+1499232	67	Female	0	Missouri	0	1	0	15
+1499402	49	Female	0	Illinois	0	0	0	110
+1499408	50	Female	0	Illinois	0	216	216	4320
+1499560	53	Female	0	Illinois	0	0	0	75
+1499657	65	Female	1	Illinois	0	0	0	325
+1499661	67	Female	1	Illinois	0	0	0	25
+1499716	66	Male	1	Virginia	0	0	0	50
+1499756	61	Male	1	Illinois	0	1	0	15
+1499783	63	Female	0	Illinois	0	0	0	25
+1499861	64	Female	0	Illinois	0	0	0	20
+1500010	55	Female	1	Washington	0	0	0	5
+1500022	52	Female	0	Illinois	0	0	0	20
+1500109	64	Female	1	Illinois	0	2	0	210
+1500115	62	Female	1	Illinois	0	0	0	10
+1501478	79	Female	0	No State	0	3	0	300
+1501669	71	Female	1	California	0	0	0	1300
+1501710	73	Female	1	Florida	0	0	0	40
+1501823	37	Male	0	Pennsylvania	0	0	0	1000
+1502038	56	Female	1	Illinois	10	0	10	250
+1502256	85	Female	1	Illinois	20	20	0	500
+1502327	54	Female	0	Kansas	0	0	0	40
+1502497	84	Female	0	No State	0	0	0	200
+1503865	45	Female	1	Illinois	0	0	0	75
+1503875	52	Male	1	No State	0	0	0	100
+1504095	62	Female	1	Illinois	3	3	3	90
+1504099	66	Female	1	Illinois	0	0	1	100
+1504283	47	Female	0	Illinois	0	0	0	10
+1504317	47	Female	1	Illinois	0	0	4	70
+1504620	54	Female	1	Illinois	2	0	0	20
+1505985	70	Female	1	Illinois	1	0	0	15
+1506237	0	Female	1	Colorado	0	1	0	25
+1506240	76	Female	1	Illinois	0	0	0	2535
+1506258	70	Female	1	Illinois	0	0	0	30
+1506594	64	Female	1	Illinois	0	0	0	210
+1508593	64	Male	0	Missouri	0	0	0	425
+1508748	63	Male	0	Illinois	0	0	0	165
+1508941	85	Female	0	Florida	0	2	0	150
+1510447	52	Female	1	Illinois	0	0	0	10
+1510500	60	Female	0	Tennessee	0	0	0	185
+1510588	49	Male	1	Illinois	0	0	0	460
+1510640	51	Female	1	Illinois	0	2	2	50
+1510651	62	Female	0	Illinois	0	0	0	100
+1510770	70	Female	0	No State	0	0	0	20
+1511042	67	Male	1	Illinois	0	27	0	1530
+1511148	60	Female	0	Illinois	0	0	0	45
+1511289	64	Female	1	Illinois	30	30	0	1800
+1511372	62	Female	1	Illinois	9	0	0	800
+1512528	55	Male	1	Illinois	0	0	0	440
+1512665	62	Male	1	Florida	0	0	0	520
+1512855	53	Female	1	Illinois	0	9	0	165
+1512856	59	Female	0	Wisconsin	0	0	0	40
+1512949	86	Female	0	Illinois	132	132	0	10200
+1513281	67	Female	0	Illinois	0	2	0	25
+1513551	61	Female	0	Illinois	0	0	0	90
+1514269	44	Female	0	Illinois	0	0	0	25
+1514992	61	Female	0	Illinois	0	0	0	20
+1515066	61	Female	1	Illinois	0	0	0	1380
+1515125	86	Female	1	No State	0	0	0	390
+1515157	59	Female	0	Colorado	0	0	0	5
+1515212	58	Female	1	Florida	0	0	0	30
+1515221	59	Male	1	Illinois	0	0	0	235
+1515242	62	Female	1	Missouri	0	0	0	50
+1515441	67	Female	1	Illinois	0	0	0	25
+1515598	67	Female	0	Washington	0	0	0	25
+1515626	72	Male	1	Ohio	0	0	0	1500
+1515848	59	Female	1	California	0	0	0	524.9199981689453
+1515914	51	Female	1	Illinois	0	0	0	145
+1517611	69	Female	1	Florida	0	0	0	550
+1517698	67	Female	0	Illinois	0	0	0	50
+1517796	59	Female	1	Iowa	0	0	21	825
+1517799	67	Female	1	Nevada	5	5	0	115
+1517803	69	Male	1	Florida	0	0	0	85
+1518059	66	Female	1	Illinois	0	0	5	225
+1518115	67	Female	1	Illinois	0	0	0	10
+1519300	62	Male	1	Illinois	0	0	0	20
+1519434	68	Female	1	Illinois	12	12	12	195
+1519529	65	Female	1	Illinois	0	0	0	250
+1519542	63	Female	1	Illinois	0	24	24	575
+1519629	63	Female	0	Illinois	0	2	2	35
+1519863	57	Female	1	Illinois	0	0	3	250
+1520065	38	Female	1	Illinois	0	0	0	175
+1520297	0	Female	0	Illinois	0	0	0	10
+1520321	36	Female	0	Illinois	0	0	0	1000
+1521481	63	Female	1	Illinois	0	24	0	1180
+1521600	69	Female	1	Illinois	16	16	0	680
+1521826	72	Female	0	Illinois	0	14	0	1250
+1521832	69	Female	0	Illinois	0	4	4	100
+1521944	60	Female	1	Illinois	0	112	112	4652
+1522042	59	Female	0	Illinois	0	0	0	25
+1522048	65	Female	1	Pennsylvania	0	0	0	50
+1522142	63	Male	1	California	0	0	0	450
+1522234	58	Female	1	California	0	0	0	225
+1522278	60	Female	1	Illinois	3	3	3	3000
+1522429	64	Female	1	Illinois	9	0	0	100
+1523801	65	Female	1	Tennessee	0	0	0	850
+1523810	58	Female	1	Illinois	0	5	0	145
+1523850	50	Female	1	Illinois	0	0	0	50
+1523979	65	Male	0	Illinois	0	0	0	10
+1523996	66	Female	1	Illinois	0	0	0	230
+1524155	68	Female	1	California	0	0	0	260
+1524223	51	Female	1	Ohio	0	0	0	135
+1524280	61	Female	1	California	0	0	0	25
+1524454	51	Female	0	Illinois	0	0	0	50
+1524579	43	Female	1	Illinois	0	0	0	60
+1526011	60	Male	1	Illinois	0	0	0	85
+1526068	75	Female	1	Illinois	0	7	0	215
+1526145	71	Female	0	Illinois	0	0	0	10
+1526260	74	Female	1	Illinois	0	248	248	16880
+1526285	73	Female	0	Illinois	0	0	0	1255
+1526304	73	Female	0	Illinois	0	0	0	60
+1526326	66	Female	0	Missouri	0	0	0	175
+1526337	65	Female	0	Washington	0	0	0	600
+1526388	52	Female	1	Illinois	0	1	0	50
+1526405	56	Male	0	Illinois	0	0	0	10
+1526610	0	Male	1	Illinois	0	0	0	25
+1526630	64	Female	1	Illinois	0	8	0	120
+1526671	56	Female	0	Illinois	0	0	0	375
+1526678	62	Female	0	Illinois	0	0	0	10
+1526763	75	Female	0	Louisiana	0	0	0	10
+1526869	64	Female	1	Maryland	0	18	0	2875
+1526943	48	Male	1	Arizona	0	0	0	25
+1527006	45	Female	1	Illinois	0	0	0	80
+1528241	72	Female	1	Illinois	0	0	0	275
+1528365	66	Male	0	Illinois	0	0	0	75
+1528431	78	Male	1	Illinois	0	8	0	135
+1528589	63	Female	0	Illinois	0	1	1	15
+1528600	54	Female	1	Ohio	0	0	0	20
+1528735	64	Male	0	Florida	0	0	0	1275
+1530718	55	Female	0	Illinois	0	16	0	680
+1530761	53	Female	1	Delaware	0	0	0	25
+1530854	56	Female	1	Illinois	13	0	0	2600
+1530927	59	Female	1	Illinois	0	0	0	560
+1531120	79	Male	1	Illinois	1	0	0	25
+1532860	48	Female	1	Illinois	0	24	0	645
+1532878	83	Male	1	Illinois	0	0	0	1125
+1532987	60	Female	1	California	0	0	0	200
+1533112	74	Female	1	Illinois	0	48	0	1240
+1533146	41	Male	0	Illinois	0	0	0	50
+1533386	71	Male	1	Oregon	0	6	0	80
+1533489	76	Male	0	Virginia	0	0	0	25
+1533543	49	Female	1	Illinois	0	0	0	200
+1533589	59	Male	0	Illinois	0	90	90	3630
+1534813	54	Female	1	Michigan	0	0	0	125
+1534891	66	Female	1	Illinois	0	0	0	30
+1535209	62	Male	0	Texas	0	0	0	60
+1535289	63	Female	0	Illinois	0	0	0	45
+1535339	75	Female	0	Illinois	0	0	0	15
+1535343	55	Female	0	Illinois	0	0	0	75
+1535371	70	Male	1	Illinois	0	32	0	1110
+1535440	40	Female	1	Wisconsin	0	0	0	50
+1535500	75	Female	1	Colorado	0	0	0	50
+1535796	53	Female	1	Illinois	2	0	0	55
+1535804	76	Male	1	Kentucky	0	24	24	4150
+1535917	63	Female	0	No State	0	0	0	400
+1537116	77	Female	1	Louisiana	0	0	0	25
+1537133	59	Female	1	Illinois	0	16	0	370
+1537207	61	Female	0	Pennsylvania	0	0	0	400
+1537208	73	Female	0	Minnesota	0	0	0	415
+1537215	72	Male	1	Texas	0	0	0	10
+1537228	67	Male	1	Pennsylvania	0	0	0	750
+1537262	65	Male	1	Illinois	0	0	0	650
+1537313	80	Male	0	No State	0	0	0	280
+1537524	66	Female	1	Illinois	0	0	9	750
+1537608	49	Female	0	Illinois	0	0	0	75
+1537636	45	Female	1	Iowa	0	0	0	20
+1537699	63	Female	1	Illinois	0	0	0	50
+1537704	71	Female	0	California	0	0	0	5
+1537741	86	Female	1	California	0	0	0	175
+1537900	74	Male	1	Iowa	0	0	0	100
+1537939	72	Female	1	Michigan	0	0	0	75
+1538137	77	Male	1	Illinois	16	16	0	900
+1538204	61	Female	1	Kansas	0	0	0	490
+1539373	68	Male	1	Illinois	2	0	0	80
+1539517	66	Female	1	California	0	0	0	1012.5
+1539586	84	Female	1	Illinois	0	24	24	870
+1550624	62	Female	0	New Jersey	0	0	0	100
+1551498	61	Female	1	Illinois	0	0	0	30
+1555472	73	Female	1	Georgia	0	0	0	775
+1555507	63	Female	1	Illinois	0	2	0	50
+1555870	62	Female	0	Tennessee	0	0	0	140
+1555874	64	Female	1	California	0	0	0	75
+1556052	64	Male	1	Illinois	0	0	0	55
+1556123	62	Female	1	Mississippi	0	0	0	150
+1556138	63	Female	0	Missouri	0	0	0	150
+1557185	74	Female	0	Illinois	2	0	0	50
+1557215	62	Male	1	Illinois	0	0	0	100
+1557263	69	Male	1	Illinois	0	15	0	885
+1557549	72	Female	1	Illinois	0	0	0	70
+1557866	61	Male	0	Louisiana	0	0	0	25
+1557888	72	Female	0	Arizona	0	0	0	155
+1558043	60	Female	0	Illinois	0	0	0	50
+1558270	75	Female	1	California	0	0	0	2800
+1558296	70	Male	1	Illinois	0	10	0	450
+1559467	61	Male	1	North Dakota	0	0	0	1660
+1560005	73	Male	1	Washington	3	0	0	30
+1561660	70	Female	1	California	0	0	0	1260
+1561686	85	Female	0	No State	0	0	0	20
+1561948	54	Female	0	New Hampshire	0	0	0	800
+1564044	76	Male	0	No State	0	0	0	50
+1564472	69	Female	0	Pennsylvania	0	0	0	300
+1574736	36	Female	1	Illinois	0	2	2	75
+1576270	38	Female	0	Illinois	0	0	0	300
+1588801	54	Male	0	Illinois	0	43	0	860
+1590677	57	Female	1	Illinois	30	0	0	780
+1600212	49	Female	1	Illinois	0	0	0	115
+1600468	60	Female	1	Illinois	0	0	0	150
+1608658	44	Female	1	Illinois	0	0	0	125
+1608853	44	Female	1	Georgia	0	4	0	320
+1609384	48	Female	1	Tennessee	0	0	0	25
+1610273	48	Male	1	New York	0	0	0	650
+1613337	44	Male	0	Illinois	0	0	0	15
+1619924	59	Female	0	Illinois	0	0	0	50
+1620112	53	Female	1	Illinois	0	0	0	65
+1626084	45	Female	1	California	0	8	0	3200
+1627098	51	Female	1	Texas	0	0	0	100
+1627585	52	Female	0	Illinois	0	0	0	25
+1631101	55	Female	1	Illinois	0	8	8	4200
+1633393	46	Male	1	Illinois	0	0	0	100
+1646644	41	Female	1	Illinois	0	4	0	110
+1664302	67	Female	1	Maryland	0	0	0	162
+1664601	76	Male	0	Georgia	0	0	0	300
+1665031	62	Male	0	Maryland	0	0	0	25
+1671907	55	Female	1	Illinois	24	24	0	1035
+1673380	53	Female	0	New Jersey	0	0	0	20
+1676033	47	Female	0	Illinois	0	1	0	20
+1676245	46	Female	0	Kansas	0	2	0	100
+1682021	62	Female	0	Illinois	0	0	0	350
+1682045	65	Female	0	Nevada	0	0	0	50
+1693596	77	Female	0	Illinois	0	1	0	25
+1693969	48	Female	0	Wisconsin	0	0	0	50
+1700154	44	Female	1	Illinois	0	0	0	25
+1706922	40	Female	0	Illinois	0	0	0	210
+1709405	42	Female	1	Illinois	0	0	0	130
+1710970	38	Male	0	Illinois	0	0	0	25
+1713430	40	Male	1	Illinois	0	0	0	25
+1713680	51	Female	1	Illinois	0	0	39	735
+1713693	68	Female	0	Colorado	0	0	0	60
+1713751	45	Female	0	Illinois	0	0	0	95
+1720492	50	Male	1	Illinois	0	0	5	170
+1720711	48	Female	1	Illinois	0	0	0	50
+1726789	61	Female	0	Illinois	0	6	6	205
+1729351	65	Female	0	Michigan	0	0	12	1175
+1735970	43	Female	1	Illinois	0	0	0	625
+1736194	39	Female	1	Illinois	0	0	0	50
+1740074	35	Male	0	Illinois	0	2	0	50
+1740679	67	Female	0	Tennessee	0	0	0	100
+1745084	64	Female	0	Washington	0	7	0	800
+1745788	60	Female	1	No State	0	0	0	50
+1745976	70	Female	1	Illinois	0	0	0	450
+1747712	70	Male	0	No State	0	0	0	15
+1749658	94	Female	1	No State	0	0	0	50
+1750427	77	Male	1	New York	0	0	0	50
+1755939	95	Female	0	No State	0	0	0	20
+1756235	76	Male	0	No State	0	0	0	25
+1756328	65	Female	0	No State	0	3	0	75
+1756336	63	Female	0	No State	0	0	0	45
+1756807	94	Female	1	No State	3822	3822	0	460200
+1757944	76	Male	0	No State	0	0	0	25
+1758000	67	Male	0	No State	0	0	0	25
+1759004	71	Female	1	Illinois	0	0	0	95
+1760574	86	Female	1	Alabama	0	36	0	3300
+1761121	72	Female	0	No State	0	0	0	195
+1766497	74	Female	1	Florida	0	0	0	200
+1795299	57	Female	1	Arizona	0	4	0	100
+1802065	62	Male	1	Illinois	0	0	0	0
+1821469	49	Male	1	Illinois	0	0	0	300
+1822941	68	Female	0	Illinois	0	0	1	50
+1822947	45	Female	0	Illinois	0	0	0	50
+1833749	46	Female	0	Maryland	0	0	0	50
+1842353	62	Female	0	Illinois	0	1	0	100
+1842453	70	Male	1	Illinois	0	6	0	175
+1848295	62	Female	1	Illinois	0	0	0	460
+1857278	41	Female	1	Indiana	0	0	0	100
+1859604	53	Female	0	Texas	0	0	0	50
+1866201	52	Female	0	Pennsylvania	0	1	0	32
+1873707	63	Female	0	District of Columbia	0	0	0	50
+1888659	34	Female	1	Illinois	0	0	0	150
+1891658	56	Female	1	Illinois	0	0	0	60
+1910263	60	Female	0	Illinois	0	0	0	60
+1925187	64	Male	1	Illinois	0	1	0	25
+1932146	93	Female	1	Arizona	0	0	0	25
+1939543	40	Female	0	Illinois	0	0	3	55
+1940732	67	Female	1	Alabama	0	0	0	200
+1942445	55	Female	1	North Carolina	0	0	0	600
+1945849	32	Female	0	Illinois	0	0	0	100
+1950457	34	Female	0	Illinois	0	0	0	25
+1957168	37	Female	1	Oklahoma	0	0	0	250
+1958600	50	Female	0	Illinois	0	0	0	135
+1958661	37	Female	1	Illinois	0	0	1	50
+1958833	36	Female	0	Michigan	0	0	0	100
+1958907	36	Female	1	Illinois	0	0	0	45
+1959552	53	Female	1	Illinois	1	0	0	25
+1961013	38	Female	0	Indiana	0	0	0	25
+1968149	33	Female	0	Illinois	0	0	0	10
+1981679	48	Female	1	Illinois	1	0	0	10
+1997556	44	Female	1	Illinois	0	0	0	75
+2003961	42	Female	1	Illinois	0	2	0	20
+2015818	35	Female	0	Minnesota	0	0	0	10
+2016332	33	Female	0	Illinois	0	0	0	600
+2022583	36	Female	0	California	0	1	0	200
+2026821	35	Female	0	Illinois	0	4	0	95
+2032123	47	Female	1	Nebraska	0	0	1	50
+2036947	40	Male	0	Illinois	0	0	1	10
+2069995	39	Female	0	Illinois	0	1	0	20
+2073627	34	Female	0	Illinois	0	0	0	10
+2074749	44	Female	0	Illinois	0	0	3	65
+2074945	45	Female	0	No State	1	0	0	300
+2084029	31	Female	0	Illinois	0	0	0	1
+2103939	64	Female	1	Illinois	0	0	0	160
+2105857	46	Female	0	Illinois	0	0	1	300
+2120394	31	Male	0	Illinois	0	0	0	20
+2135631	28	Female	1	Illinois	0	0	0	200
+2142870	49	Male	1	Missouri	0	0	0	250
+2149841	29	Female	1	Illinois	0	9	0	585
+2151060	45	Female	1	Illinois	0	0	0	70
+2151547	46	Female	0	Illinois	0	0	2	50
+2151573	45	Female	0	Illinois	0	0	0	20
+2162421	46	Female	0	Illinois	0	0	1	25
+2181671	38	Female	0	Illinois	0	0	0	300
+2183805	69	Female	0	Illinois	0	0	0	50
+2186592	58	Female	1	Florida	0	0	0	50
+2192121	43	Female	1	Colorado	0	1	0	25
+2192606	63	Female	0	Arizona	0	0	0	10
+2202236	38	Female	1	Illinois	0	0	1	25
+2202237	40	Female	0	Virginia	0	0	0	100
+2202389	41	Female	1	Illinois	0	10	0	350
+2202571	39	Female	0	Iowa	0	0	0	700
+2203768	64	Female	0	Illinois	0	2	0	50
+2206339	87	Female	0	Arizona	0	0	0	20
+2207286	98	Female	0	No State	0	0	0	10
+2207439	0	Female	0	No State	0	0	0	200
+2210914	0	Female	1	No State	0	0	0	25
+2211086	66	Male	1	Illinois	0	0	0	50
+2211498	64	Male	1	Illinois	0	0	0	175
+2213220	96	Female	0	California	0	18	0	13500.4404296875
+2214061	88	Male	0	No State	3	0	0	130
+2214343	96	Female	0	No State	0	0	0	20
+2218151	0	Male	1	Washington	0	0	0	100
+2220049	91	Female	1	Illinois	4	0	0	40
+2220658	85	Female	0	No State	0	0	0	20
+2220864	0	Male	0	Indiana	0	0	0	25
+2223084	0	Female	0	Wisconsin	0	0	0	25
+2224047	47	Female	1	Illinois	0	0	0	100
+2224212	53	Male	0	North Carolina	0	0	0	100
+2228167	39	Female	1	Tennessee	0	3	0	175
+2229536	86	Male	0	No State	0	0	0	200
+2231137	96	Female	0	Illinois	0	42	0	32235
+2232899	57	Female	1	Illinois	0	0	0	50
+2234076	87	Female	1	Massachusetts	3	3	3	225
+2236602	0	Male	0	No State	0	0	0	10
+2242620	39	Female	1	Illinois	0	0	0	25
+2243228	84	Female	1	Indiana	0	0	0	10
+2245144	44	Female	0	Illinois	0	0	0	50
+2246232	42	Male	0	Tennessee	0	0	1	300
+2246261	70	Female	0	Illinois	0	0	0	50
+2248096	88	Female	0	No State	0	0	0	100
+2249314	0	Female	1	Virginia	0	34	0	950
+2250570	94	Female	0	No State	0	0	0	300
+2254901	91	Female	1	Illinois	0	3	0	900
+2255983	0	Female	1	Illinois	0	0	0	120
+2258326	46	Female	0	Illinois	0	4	0	50
+2258641	37	Female	0	California	0	6	6	1200
+2260732	65	Male	0	California	0	4	0	1600
+2263002	70	Female	1	Virginia	0	0	0	300
+2264602	79	Male	1	Illinois	0	6	0	175
+2265662	69	Female	1	Illinois	0	1	1	100
+2267271	69	Male	1	Wisconsin	0	7	0	405
+2269174	45	Female	0	Illinois	0	2	0	100
+2269194	74	Female	0	Illinois	0	0	0	100
+2269378	63	Female	0	Rhode Island	0	0	0	50
+2269538	63	Female	0	Minnesota	0	0	1	300
+2273565	67	Female	1	Illinois	0	0	0	200
+2275065	87	Female	0	No State	0	0	0	225
+2275781	68	Male	1	Illinois	0	36	0	11700
+2275957	37	Female	0	Illinois	0	0	0	100
+2276082	68	Male	1	Illinois	0	0	0	255
+2276113	56	Female	1	Illinois	0	0	1	300
+2278648	45	Female	0	Illinois	0	5	5	300
+2282999	105	Male	1	No State	30	30	0	3780
+2283007	87	Male	1	No State	0	0	0	300
+2284493	96	Male	1	Illinois	0	0	0	75
+2286350	103	Male	0	No State	0	0	0	800
+2288332	87	Female	1	Oregon	0	0	0	25
+2289641	73	Female	0	No State	0	0	0	150
+2295864	91	Male	0	No State	0	0	0	50
+2297674	45	Female	1	California	0	16	0	2420
+2297751	49	Female	1	Illinois	4	4	0	1600
+2297892	37	Female	0	Ohio	0	12	0	255
+2298204	35	Female	0	Missouri	0	0	0	280
+2303719	0	Female	1	Illinois	0	0	0	25
+2305785	80	Female	1	Colorado	0	0	0	775
+2309570	80	Female	0	No State	0	36	0	5228
+2310298	96	Female	0	No State	0	0	0	450
+2311861	0	Female	0	No State	0	0	0	25
+2313519	54	Male	0	North Carolina	0	0	0	25
+2313750	51	Female	1	Illinois	0	0	3	65
+2313764	37	Female	1	Illinois	0	0	0	600
+2317361	35	Female	1	Illinois	0	24	24	600
+2320777	105	Female	0	No State	0	0	0	75
+2321739	34	Female	0	Illinois	0	0	0	100
+2324948	99	Female	1	No State	3	0	0	200
+2325328	43	Female	1	Illinois	0	0	1	80
+2327304	91	Female	0	Illinois	0	0	0	210
+2327871	90	Female	0	No State	0	0	0	750
+2328214	65	Female	0	No State	0	0	0	30
+2331463	63	Female	0	No State	0	0	0	10
+2331859	67	Female	1	Illinois	0	0	0	100
+2332245	0	Male	0	Hawaii	0	0	0	50
+2332670	80	Female	1	No State	0	0	0	30
+2333318	64	Female	1	Illinois	0	0	0	65
+2333642	55	Female	0	Illinois	0	12	12	600
+2333754	51	Male	0	Illinois	0	8	0	280
+2334342	62	Female	0	No State	0	0	0	65
+2334472	62	Male	0	No State	0	0	0	50
+2334868	62	Male	0	No State	0	0	0	15
+2336881	76	Female	1	New Mexico	0	0	0	100
+2338172	61	Female	0	No State	0	0	0	115
+2342998	75	Male	1	Illinois	50	0	0	950
+2343328	35	Female	0	Illinois	0	0	0	30
+2346260	0	Female	1	No State	0	0	0	25
+2346443	103	Male	1	Illinois	0	0	0	50
+2354583	104	Female	0	No State	0	0	0	75
+2358415	108	Female	0	No State	0	1	0	25000
+2361234	77	Female	1	Illinois	0	1	0	300
+2361342	0	Male	0	Illinois	0	0	0	50
+2361455	82	Male	1	Illinois	0	0	0	20
+2365535	0	Female	0	New Hampshire	0	0	0	15
+2368211	0	Female	0	Iowa	0	0	0	70
+2370871	75	Female	0	Illinois	0	0	0	70
+2376197	0	Female	1	Illinois	0	0	0	230
+2376419	0	Female	1	Illinois	0	0	0	25
+2379290	74	Male	1	Illinois	0	0	0	100
+2379294	83	Female	0	Illinois	0	0	0	25
+2379552	103	Female	0	No State	0	0	0	51
+2379635	0	Male	0	Illinois	0	0	0	1600
+2379638	0	Male	0	Illinois	0	0	0	50
+2379708	76	Male	1	Massachusetts	0	0	18	285
+2379830	0	Female	1	Illinois	0	0	0	25
+2379835	0	Female	0	Illinois	0	1	0	100
+2383639	78	Female	0	California	1	0	0	100
+2388426	78	Male	1	New York	0	0	0	1150
+2388901	71	Male	0	No State	0	0	0	1200
+2390202	94	Female	0	No State	0	0	0	55
+2397459	92	Female	1	Indiana	0	0	0	100
+2400235	70	Female	1	Florida	0	0	0	580
+2400473	68	Female	1	Kansas	0	0	0	15
+2400712	67	Female	1	Washington	0	0	0	25
+2402831	70	Female	1	Illinois	4	0	0	150
+2402908	68	Female	0	Illinois	0	7	0	475
+2403028	68	Female	0	Washington	0	0	0	25
+2403056	75	Female	1	Illinois	0	731	0	453390
+2403114	0	Female	1	Pennsylvania	0	0	0	75
+2403117	65	Female	1	Illinois	2	0	0	50
+2403314	65	Female	1	New York	0	0	0	100
+2407823	0	Female	0	Colorado	0	0	0	250
+2407868	62	Female	1	Illinois	0	0	0	190
+2408125	0	Female	1	Arizona	0	0	0	20
+2439327	63	Male	1	Illinois	0	0	0	325
+2449177	41	Female	0	Illinois	0	0	1	25
+2456669	61	Female	1	Indiana	0	12	0	635
+2456670	54	Male	1	Illinois	0	0	0	250
+2477018	66	Female	1	North Carolina	0	0	0	300
+2477079	64	Female	1	Illinois	88	88	88	5100
+2483372	68	Female	1	Illinois	0	20	0	394
+2491051	45	Female	0	Tennessee	0	1	0	150
+2491175	46	Female	0	Illinois	0	0	0	45
+2491376	37	Female	0	Illinois	0	0	0	25
+2492414	38	Female	1	Illinois	0	0	0	150
+2492622	45	Male	0	Illinois	0	0	0	200
+2492880	53	Female	0	Illinois	0	0	1	300
+2495360	44	Female	0	Michigan	0	0	0	700
+2495736	60	Female	1	Illinois	0	1036	0	207409.99913215637
+2495750	59	Male	0	Illinois	0	0	0	25
+2497083	62	Female	0	Illinois	48	48	0	5880
+2497763	46	Female	0	Illinois	0	0	0	25
+2499977	39	Female	0	Illinois	0	0	0	175
+2500729	60	Female	1	Illinois	2	0	0	75
+2513354	45	Female	1	California	0	0	0	800
+2514018	42	Female	0	Illinois	0	0	0	295
+2515854	50	Male	0	Illinois	0	8	0	200
+2517248	46	Female	0	California	0	0	3	75
+2522179	33	Female	0	Illinois	0	0	0	95
+2539699	89	Female	0	Illinois	0	0	0	700
+2542573	30	Female	0	Illinois	0	0	0	10
+2571746	34	Female	1	Illinois	0	1	0	50
+2572406	32	Female	0	Illinois	0	0	0	25
+2623142	32	Female	0	Illinois	0	0	0	45
+2640140	61	Female	1	Illinois	0	0	0	235
+2640154	53	Female	0	California	0	0	0	5
+2640287	33	Female	0	Illinois	0	6	0	225
+2640321	46	Female	0	No State	0	0	0	1000
+2648048	35	Female	1	Illinois	0	0	0	50
+2648252	46	Female	0	Florida	0	0	0	145
+2648275	37	Female	0	Wisconsin	0	0	0	790
+2648491	38	Female	0	North Carolina	0	0	0	2400
+2660977	32	Female	1	Indiana	0	0	0	10
+2669506	63	Female	0	Illinois	0	1	0	150
+2680531	47	Female	0	Arizona	0	0	0	500
+2691325	75	Male	1	North Carolina	0	8	0	850
